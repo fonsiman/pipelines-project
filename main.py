@@ -5,25 +5,36 @@ from matplotlib import pyplot as plt
 import math
 import requests
 import numpy as np
+import downloadDataset as dd
+import unzip
+import findticker
+
+query = "AENA"
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-f_data = sorted(os.listdir(dir_path+"/data/ence-2"))
+
+# Descargamos el dataset
+pg = dd.PageGetter('firefox')
+soup = pg.getPage("https://www.cnmv.es/ipps/default.aspx", query)
+pg.close()
+
+# Descomprimimos los archivos descargados
+
+path = unzip.unzip(query)
+
+f_data = sorted(os.listdir(path))
 
 lstdic = []
 
-for files in range(len(f_data)):
-    fil = dir_path+"/data/ence-2/"+f_data[files]
+'''for files in range(len(f_data)):
+    fil = path+f_data[files]
     with open(fil, 'r', encoding="utf8") as f:
         data = f.read()
         with open(dir_path+"/clean-data/ence/"+f_data[files][:-4]+"txt", 'w') as output:
-            output.write(data)
-
-f_data = sorted(os.listdir(dir_path+"/clean-data/ence"))
-
-lstdic = []
+            output.write(data)'''
 
 for files in range(len(f_data)):
-    fil = dir_path+"/clean-data/ence/"+f_data[files]
+    fil = path+"/"+f_data[files]
     with open(fil, 'r', encoding="utf8") as f:
         data = f.read()
 
@@ -87,7 +98,10 @@ for e in range(len(f_dataset)):
     df = pd.concat([df, dfaux], ignore_index=True)
 '''
 
-res = requests.get('https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=0K96.ILN&outputsize=full&apikey=RPY2EPG6JMND2R3M')
+ticker = findticker.findticker(query)
+
+
+res = requests.get('https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={}&outputsize=full&apikey=RPY2EPG6JMND2R3M'.format(ticker))
 data_api = res.json()
 
 cotdic = []
