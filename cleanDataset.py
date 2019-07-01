@@ -58,4 +58,11 @@ def clean(f_data, path):
     df_fund['startdate'] =pd.to_datetime(df_fund.startdate)
     df_fund['enddate'] =pd.to_datetime(df_fund.enddate)
     df_fund['mediumdate'] =((df_fund.enddate-df_fund.startdate)/2 + pd.to_datetime(df_fund.enddate))
+
+    print()
+    df_fund['year'] =pd.DatetimeIndex(df_fund['startdate']).year
+    df_fund['semestre'] =pd.DatetimeIndex(df_fund['startdate']).month
+    df_fund['semestre'] = df_fund['semestre'].apply(lambda x: "S1" if x == 1 else "S2")
+
+    print(df_fund)
     return df_fund

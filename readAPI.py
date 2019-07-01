@@ -1,6 +1,14 @@
 from difflib import SequenceMatcher
 import requests
 import pandas as pd
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+if not "ALPHAVANTAGE_KEY" in os.environ:
+    raise ValueError("Necesitas una API key de alphavantage: https://www.alphavantage.co/support/#api-key")
+
+key = os.environ["ALPHAVANTAGE_KEY"]
 
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
@@ -51,7 +59,7 @@ def findticker(query):
 
 
 def read_api(query):
-    res = requests.get('https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={}&outputsize=full&apikey=RPY2EPG6JMND2R3M'.format(findticker(query)))
+    res = requests.get('https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={}&outputsize=full&apikey={}'.format(findticker(query),key))
     data_api = res.json()
 
     cotdic = []
