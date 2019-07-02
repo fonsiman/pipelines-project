@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 .env
-__pycache__
-data/
-download-data/
-outputs/
+__pycache__/
+data/*
+download-data/*
+outputs/*
