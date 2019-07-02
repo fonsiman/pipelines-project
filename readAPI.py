@@ -79,6 +79,4 @@ def read_api(query):
     df.sort_values(by=["fecha"], inplace=True)
     # df.reset_index(inplace=True)
 
-    # Aprovechamos y guardamos los datos en csv
-    df.to_csv("cotizacion.csv",index=False)
     return df

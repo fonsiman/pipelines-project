@@ -19,8 +19,6 @@ def drawPlot(df, df_fund, query, data_plot):
     ax2.plot(df["fecha"], df["precio"], color='b', label='Cotización')
     ax.set_xticklabels(df["fecha"])
     fig.autofmt_xdate()
-    ax.xaxis.set_minor_locator(dates.MonthLocator(interval=1))  
-    ax.xaxis.set_minor_formatter(dates.DateFormatter('%m-%Y')) 
     ax2.xaxis.set_minor_locator(dates.MonthLocator(interval=1))  
     ax2.xaxis.set_minor_formatter(dates.DateFormatter('%m-%Y')) 
     plt.title("Cotización {} vs {}".format(df_fund["company"][0], data_plot.capitalize()),size=12,fontweight='bold')

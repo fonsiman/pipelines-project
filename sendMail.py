@@ -1,4 +1,7 @@
 import smtplib
+import email
+import email.mime
+import email.mime.application
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
@@ -18,16 +21,30 @@ gmail_password = os.environ["GMAIL_KEY"]
 def sendMail(FileName):
     dir_path = os.path.dirname(os.path.realpath(__file__))
 
-    file_data = open(dir_path+"/outputs/"+FileName, 'rb').read()
     msg = MIMEMultipart()
     msg['Subject'] = "Informe" + FileName
     msg['From'] = gmail_user
     msg['To'] = input("¿Dónde enviamos el correo? ")
 
-    text = MIMEText("test")
+    html = """\
+        <html>
+        <head></head>
+        <body>
+            <p>Buenas tardes,</p>
+            <p>Adjunto a este correo encontrarás un informe de la empresa seleccionada.</p>
+            <p><em>Alfonso ROMÁN</em></p>
+        </body>
+        </html>
+        """
+    text = MIMEText(html, 'html')
     msg.attach(text)
-    pdf = MIMEText(file_data)
-    msg.attach(pdf)
+    filename1 = dir_path+"/outputs/"+FileName
+    fp = open(filename1 , 'rb')
+    attach_part = email.mime.application.MIMEApplication(fp.read(),"pdf")
+    fp.close()
+
+    attach_part.add_header('Content-Disposition','attachment',filename = FileName)
+    msg.attach(attach_part)
 
     try:  
         server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
@@ -38,6 +55,9 @@ def sendMail(FileName):
         print("Opps! Algo falló...")
 
     # Send the mail to SMTP gmail server
-    server.sendmail(msg['From'], msg['To'], msg.as_string())
+    if server.sendmail(msg['From'], msg['To'], msg.as_string()) == {}:
+        print("Mensaje enviado correctamente")
 
     server.close()
+
+sendMail("AENA-resultado.pdf")
