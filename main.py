@@ -5,8 +5,8 @@ from unzip import unzip
 from cleanDataset import clean
 from readAPI import read_api
 from drawPlot import drawPlot
-from sendMail import sendMail
 from createPDF import createPDF
+from sendMail import sendMail
 
 import warnings
 warnings.filterwarnings("ignore")
