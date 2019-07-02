@@ -29,6 +29,7 @@ class PageGetter:
             raise Exception("You should start a browser connection")
         self.driver.get(url)
         self.driver.find_element_by_id('lkDescarga').click()
+        time.sleep(2)
         self.driver.find_element_by_id('wDescargas_rbTipoBusqueda_3').click()
         time.sleep(3)
         self.driver.find_element_by_name('wDescargas$drpEntidades').click()

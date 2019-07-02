@@ -15,25 +15,27 @@ if not "GMAIL_KEY" in os.environ:
 gmail_user = os.environ["GMAIL_MAIL"]
 gmail_password = os.environ["GMAIL_KEY"]
 
-def sendMail(ImgFileName):
-    img_data = open(ImgFileName, 'rb').read()
+def sendMail(FileName):
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+
+    file_data = open(dir_path+"/outputs/"+FileName, 'rb').read()
     msg = MIMEMultipart()
-    msg['Subject'] = ImgFileName
+    msg['Subject'] = "Informe" + FileName
     msg['From'] = gmail_user
-    msg['To'] = input("Who should receive the mail? ")
+    msg['To'] = input("¿Dónde enviamos el correo? ")
 
     text = MIMEText("test")
     msg.attach(text)
-    image = MIMEImage(img_data, name=os.path.basename(ImgFileName))
-    msg.attach(image)
+    pdf = MIMEText(file_data)
+    msg.attach(pdf)
 
     try:  
         server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
         server.ehlo()
         server.login(gmail_user, gmail_password)
-        print("Connected to gmail servers")
+        print("Conectado al servidor de gmail")
     except:  
-        print("Something went wrong...")
+        print("Opps! Algo falló...")
 
     # Send the mail to SMTP gmail server
     server.sendmail(msg['From'], msg['To'], msg.as_string())

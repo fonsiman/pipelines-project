@@ -1593,3 +1593,1519 @@ console.error: BroadcastService:
 
 ###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
 
+1561986571208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OyItLKb6Bt9O"
+1561986571709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561986571710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561986571710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561986573250	Marionette	INFO	Listening on port 36341
+1561986574087	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561986628758	Marionette	INFO	Stopped listening on port 36341
+[Parent 30893, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561986862149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pbt9u6niawev"
+1561986862481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561986862481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561986862481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561986863804	Marionette	INFO	Listening on port 38635
+1561986863859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1561986898170	Marionette	INFO	Stopped listening on port 38635
+[Parent 31453, Gecko_IOThread] WARNING: pipe error (83): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561987107436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PnPTYCY2by3K"
+1561987107685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561987107685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561987107685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561987108771	Marionette	INFO	Listening on port 34463
+1561987108841	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561987137663	Marionette	INFO	Stopped listening on port 34463
+[Parent 32047, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989426922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P6OgXninIxjR"
+1561989427170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989427170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989427170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989428593	Marionette	INFO	Listening on port 35749
+1561989428630	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561989458942	Marionette	INFO	Stopped listening on port 35749
+[Parent 1158, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989647084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KniA4pEl4yfU"
+1561989647372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989647373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989647373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989648958	Marionette	INFO	Listening on port 39265
+1561989649005	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561989688338	Marionette	INFO	Stopped listening on port 39265
+[Parent 1921, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989724043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6NM4TcjPoRhO"
+1561989724335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989724336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989724336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989725918	Marionette	INFO	Listening on port 36545
+1561989725950	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2394, Gecko_IOThread] WARNING: pipe error (101): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2394, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989743515	Marionette	INFO	Stopped listening on port 36545
+1561989747033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mjSxZzgIWK4N"
+1561989747314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989747314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989747314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989748528	Marionette	INFO	Listening on port 46141
+1561989748544	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2829, Gecko_IOThread] WARNING: pipe error (94): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2829, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989758614	Marionette	INFO	Stopped listening on port 46141
+1561989791874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dQPWw7jHxHw1"
+1561989792170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989792170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989792170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989793410	Marionette	INFO	Listening on port 35063
+1561989793483	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561989831582	Marionette	INFO	Stopped listening on port 35063
+[Parent 3256, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989905753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PDSp8xI3O3r0"
+1561989906057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989906058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989906058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989907357	Marionette	INFO	Listening on port 46313
+1561989907462	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561989944526	Marionette	INFO	Stopped listening on port 46313
+[Parent 3811, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561989970057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fiEtWPya5pxM"
+1561989970357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561989970358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561989970358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561989971675	Marionette	INFO	Listening on port 45991
+1561989971769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1561990009143	Marionette	INFO	Stopped listening on port 45991
+[Parent 4282, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561990153525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u5Pq7oXY7kk4"
+1561990153824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561990153824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561990153824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561990155292	Marionette	INFO	Listening on port 46759
+1561990155356	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561990191957	Marionette	INFO	Stopped listening on port 46759
+[Parent 4850, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561991129188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b4QYUpIumFjo"
+1561991129446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561991129447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561991129447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561991130887	Marionette	INFO	Listening on port 38479
+1561991130895	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561991162839	Marionette	INFO	Stopped listening on port 38479
+[Parent 5703, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561991343707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hQcYC0bpYkwW"
+1561991343961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561991343961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561991343961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561991344989	Marionette	INFO	Listening on port 46119
+1561991345012	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561991377754	Marionette	INFO	Stopped listening on port 46119
+[Parent 6281, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561991776237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PAtzHG3n9MKi"
+1561991776528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561991776528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561991776528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561991777811	Marionette	INFO	Listening on port 45959
+1561991777842	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561991805241	Marionette	INFO	Stopped listening on port 45959
+[Parent 6824, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561992175487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7EL7wU2T1IUL"
+1561992175756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561992175757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561992175757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561992176899	Marionette	INFO	Listening on port 34231
+1561992176996	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561939213176%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1561992227368	Marionette	INFO	Stopped listening on port 34231
+[Parent 7503, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562002953063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RfiAVRWKnYRx"
+1562002953315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562002953315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562002953315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562002954400	Marionette	INFO	Listening on port 39043
+1562002954468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561988438110%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562003001456	Marionette	INFO	Stopped listening on port 39043
+[Parent 9176, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562003097129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dxfjFOeFhLQ9"
+1562003097384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562003097384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562003097384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562003098513	Marionette	INFO	Listening on port 39681
+1562003098538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561988438110%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562003143186	Marionette	INFO	Stopped listening on port 39681
+[Parent 9639, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562003545763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XAurEWOo69zt"
+1562003546009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562003546010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562003546010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562003547178	Marionette	INFO	Listening on port 39863
+1562003547281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561988438110%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562003591953	Marionette	INFO	Stopped listening on port 39863
+[Parent 10940, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562003809728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D4nTeyjbZGOc"
+1562003809971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562003809972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562003809972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562003811100	Marionette	INFO	Listening on port 44523
+1562003811133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561988438110%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562003850884	Marionette	INFO	Stopped listening on port 44523
+[Parent 11408, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562003998071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t25iCiWRnQr3"
+1562003998318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562003998319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562003998319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562003999415	Marionette	INFO	Listening on port 34515
+1562003999475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562004039647	Marionette	INFO	Stopped listening on port 34515
+[Parent 11847, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562004114588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cXuGATd0IjqB"
+1562004114839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562004114839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562004114839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562004115966	Marionette	INFO	Listening on port 45159
+1562004115993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562004161070	Marionette	INFO	Stopped listening on port 45159
+[Parent 12344, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562004168443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qj6a5dVRUlA0"
+1562004168685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562004168685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562004168685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562004169683	Marionette	INFO	Listening on port 42921
+1562004169751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562004219107	Marionette	INFO	Stopped listening on port 42921
+[Parent 12760, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562004423180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7KSgtTwHhICj"
+1562004423424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562004423424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562004423425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562004424538	Marionette	INFO	Listening on port 46857
+1562004424585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562004469507	Marionette	INFO	Stopped listening on port 46857
+[Parent 13276, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562004625107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3OShmoFeSsis"
+1562004625351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562004625351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562004625351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562004626491	Marionette	INFO	Listening on port 34143
+1562004626511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562004664489	Marionette	INFO	Stopped listening on port 34143
+[Parent 13779, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562004903155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dJswhRqXYm6Z"
+1562004903400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562004903400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562004903400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562004904482	Marionette	INFO	Listening on port 39223
+1562004904563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562004948324	Marionette	INFO	Stopped listening on port 39223
+[Parent 14288, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562005208328	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wB878gNAjXrv"
+1562005208571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562005208571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562005208572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562005209590	Marionette	INFO	Listening on port 34803
+1562005209655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562005251332	Marionette	INFO	Stopped listening on port 34803
+[Parent 14791, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562005307475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gToTbKikUohc"
+1562005307730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562005307730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562005307730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562005308764	Marionette	INFO	Listening on port 43551
+1562005308784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562005353186	Marionette	INFO	Stopped listening on port 43551
+[Parent 15221, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562005805794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rLooE2EazhBN"
+1562005806051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562005806051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562005806051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562005807159	Marionette	INFO	Listening on port 34803
+1562005807199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562005848321	Marionette	INFO	Stopped listening on port 34803
+[Parent 15797, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562005959451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XcJTIZW90Qjn"
+1562005959692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562005959692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562005959692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562005960722	Marionette	INFO	Listening on port 37769
+1562005960755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562006000659	Marionette	INFO	Stopped listening on port 37769
+[Parent 16241, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562011712042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bdEIsF3LXmvf"
+1562011712416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562011712417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562011712417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562011713634	Marionette	INFO	Listening on port 44239
+1562011713654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562011754959	Marionette	INFO	Stopped listening on port 44239
+[Parent 18604, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562011873217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XJFnq3YseKVF"
+1562011873473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562011873473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562011873473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562011874597	Marionette	INFO	Listening on port 39383
+1562011874621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562011914722	Marionette	INFO	Stopped listening on port 39383
+[Parent 19182, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562012156414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FiATwxbIjvcp"
+1562012156675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562012156675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562012156675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562012157792	Marionette	INFO	Listening on port 46179
+1562012157820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562012219133	Marionette	INFO	Stopped listening on port 46179
+[Parent 19842, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562012854055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.czlv3sjnIrDO"
+1562012854317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562012854317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562012854317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562012855440	Marionette	INFO	Listening on port 33183
+1562012855466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562012899665	Marionette	INFO	Stopped listening on port 33183
+[Parent 20675, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562013046351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iyLdF8jI3lDz"
+1562013046613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562013046613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562013046613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562013047736	Marionette	INFO	Listening on port 37083
+1562013047755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562013097712	Marionette	INFO	Stopped listening on port 37083
+[Parent 21296, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562013325918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ka3nV7XFf8Vs"
+1562013326252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562013326252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562013326252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562013327547	Marionette	INFO	Listening on port 43023
+1562013327624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562013375268	Marionette	INFO	Stopped listening on port 43023
+[Parent 21950, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562013427833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VVEnQdqG91eZ"
+1562013428134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562013428134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562013428134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562013429475	Marionette	INFO	Listening on port 35811
+1562013429545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562003097207%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562013476521	Marionette	INFO	Stopped listening on port 35811
+[Parent 22399, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562020063870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oHQGg21K2eUT"
+1562020064130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562020064130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562020064130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562020065210	Marionette	INFO	Listening on port 39299
+1562020065278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562020105303	Marionette	INFO	Stopped listening on port 39299
+[Parent 23526, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562020141437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JsHqMgV5INqo"
+1562020141778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562020141779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562020141779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562020142950	Marionette	INFO	Listening on port 37011
+1562020143048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562020181847	Marionette	INFO	Stopped listening on port 37011
+[Parent 23945, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562020210929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aYa552TqnBxh"
+1562020211176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562020211176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562020211176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562020212280	Marionette	INFO	Listening on port 44959
+1562020212333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562020251464	Marionette	INFO	Stopped listening on port 44959
+[Parent 24352, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562020678566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a7Aq6cPFmhfc"
+1562020678815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562020678815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562020678816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562020679859	Marionette	INFO	Listening on port 36609
+1562020679870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562020728490	Marionette	INFO	Stopped listening on port 36609
+[Parent 24871, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562020861160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4WLpLChK2Xfj"
+1562020861408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562020861408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562020861409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562020862519	Marionette	INFO	Listening on port 41337
+1562020862564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562020901672	Marionette	INFO	Stopped listening on port 41337
+[Parent 25491, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562020971645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PXZKxzM7NWzM"
+1562020971893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562020971893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562020971894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562020973023	Marionette	INFO	Listening on port 40201
+1562020973049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021020434	Marionette	INFO	Stopped listening on port 40201
+[Parent 25947, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021074307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.laZgZEwCNiKf"
+1562021074555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021074555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021074555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021075652	Marionette	INFO	Listening on port 33323
+1562021075711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021121247	Marionette	INFO	Stopped listening on port 33323
+[Parent 26369, Gecko_IOThread] WARNING: pipe error (88): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021197775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QqKWDN8htAyQ"
+1562021198036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021198036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021198036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021199122	Marionette	INFO	Listening on port 39307
+1562021199180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021242362	Marionette	INFO	Stopped listening on port 39307
+[Parent 26801, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021288144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G8Gi2vSXyly1"
+1562021288402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021288402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021288402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021289457	Marionette	INFO	Listening on port 34667
+1562021289554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021340231	Marionette	INFO	Stopped listening on port 34667
+[Parent 27243, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021508228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8w7Uixf0Qnum"
+1562021508470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021508470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021508470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021509526	Marionette	INFO	Listening on port 41077
+1562021509535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021556846	Marionette	INFO	Stopped listening on port 41077
+[Parent 27715, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021615442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LmWvkSpYurKZ"
+1562021615701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021615701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021615701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021616789	Marionette	INFO	Listening on port 40941
+1562021616846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021656064	Marionette	INFO	Stopped listening on port 40941
+[Parent 28329, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021697482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q1xYXwWRIbBz"
+1562021697725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021697725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021697725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021698721	Marionette	INFO	Listening on port 44697
+1562021698785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021747331	Marionette	INFO	Stopped listening on port 44697
+[Parent 28769, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562021917116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CbDDyoKY6PNe"
+1562021917360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562021917361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562021917361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562021918413	Marionette	INFO	Listening on port 36035
+1562021918434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562021962778	Marionette	INFO	Stopped listening on port 36035
+[Parent 29311, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562022392574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2XU4fMOzTMbX"
+1562022392830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562022392831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562022392831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562022394284	Marionette	INFO	Listening on port 33593
+1562022394396	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29899, Gecko_IOThread] WARNING: pipe error (110): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 29899, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562022395389	Marionette	INFO	Stopped listening on port 33593
+1562023747581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s6menqPsvRrr"
+1562023747826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562023747826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562023747827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562023749046	Marionette	INFO	Listening on port 36099
+1562023749086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562023785810	Marionette	INFO	Stopped listening on port 36099
+[Parent 31603, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562023841169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e6U50EEcbqNw"
+1562023841414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562023841415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562023841415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562023842503	Marionette	INFO	Listening on port 42869
+1562023842575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562023889584	Marionette	INFO	Stopped listening on port 42869
+[Parent 32021, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562024037624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mm1MfbPx0sI7"
+1562024037915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562024037916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562024037916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562024039097	Marionette	INFO	Listening on port 45731
+1562024039133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562024080986	Marionette	INFO	Stopped listening on port 45731
+[Parent 32595, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562024259573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RLVdnLDUvPPw"
+1562024259855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562024259855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562024259855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562024261049	Marionette	INFO	Listening on port 35091
+1562024261078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562024301431	Marionette	INFO	Stopped listening on port 35091
+[Parent 727, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562024544630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OPs2MuBt2MU5"
+1562024544918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562024544918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562024544919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562024546076	Marionette	INFO	Listening on port 38507
+1562024546134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562024581214	Marionette	INFO	Stopped listening on port 38507
+[Parent 1414, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562025008004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ozWB59jZbJkK"
+1562025008286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562025008286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562025008286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562025009860	Marionette	INFO	Listening on port 34785
+1562025009913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562025054518	Marionette	INFO	Stopped listening on port 34785
+[Parent 2218, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562025087099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aueLlf6SnxfW"
+1562025087434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562025087435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562025087435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562025088700	Marionette	INFO	Listening on port 44523
+1562025088710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+1562025137319	Marionette	INFO	Stopped listening on port 44523
+[Parent 2711, Gecko_IOThread] WARNING: pipe error (94): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2711, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562025213185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Lgn4zthGflKL"
+1562025213471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562025213472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562025213472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562025215038	Marionette	INFO	Listening on port 44449
+1562025215092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562025255331	Marionette	INFO	Stopped listening on port 44449
+[Parent 3207, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562025526147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZoBq4kR3hYNT"
+1562025526427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562025526427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562025526427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562025527632	Marionette	INFO	Listening on port 41881
+1562025527655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562025578376	Marionette	INFO	Stopped listening on port 41881
+[Parent 3745, Gecko_IOThread] WARNING: pipe error (83): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562025710996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3N9CVWAElLnB"
+1562025711289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562025711290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562025711290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562025712651	Marionette	INFO	Listening on port 33115
+1562025712701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562025756555	Marionette	INFO	Stopped listening on port 33115
+[Parent 4222, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562025796945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wdAdOfBaEN3C"
+1562025797223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562025797223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562025797223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562025798419	Marionette	INFO	Listening on port 35857
+1562025798452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562025837726	Marionette	INFO	Stopped listening on port 35857
+[Parent 4712, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562026030787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Avn5N0ACAtYw"
+1562026031061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562026031061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562026031061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562026032252	Marionette	INFO	Listening on port 42329
+1562026032292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562015789550%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562026071613	Marionette	INFO	Stopped listening on port 42329
+[Parent 5220, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562026492635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B9HTNqzARco2"
+1562026492923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562026492923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562026492924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562026494223	Marionette	INFO	Listening on port 42445
+1562026494241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562026385893%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562026536090	Marionette	INFO	Stopped listening on port 42445
+[Parent 5871, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1562026596355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.et7QTDCXRslf"
+1562026596641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562026596641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562026596642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562026597870	Marionette	INFO	Listening on port 44821
+1562026597962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 208: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 207: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 656: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 47: Error: ASP.NET Ajax client-side framework failed to load.
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 68: ReferenceError: Sys is not defined
+JavaScript error: https://www.cnmv.es/ipps/default.aspx, line 709: ReferenceError: Sys is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562026385893%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562026648371	Marionette	INFO	Stopped listening on port 44821
+[Parent 6326, Gecko_IOThread] WARNING: pipe error (80): Conexión reinicializada por la máquina remota: file /build/firefox-qz3lxW/firefox-67.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357

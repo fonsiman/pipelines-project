@@ -23,30 +23,24 @@ def clean(f_data, path):
                 # Cuenta de resultados
 
                 "importe_neto_cifra_negocio": soup.select("ipp_ge\:I1205")[0].text,
-                "resultado_exp": soup.select("ipp_ge\:I1245")[0].text,
-                "resultado_antes_imp": soup.select("ipp_ge\:I1265")[0].text,
-                "resultado_consolidado": soup.select("ipp_ge\:I1288")[0].text,
-                "bpa_basico": soup.select("ipp_ge\:I1290")[0].text,
+                "EBITDA": soup.select("ipp_ge\:I1245")[0].text,
+                "EBIT": soup.select("ipp_ge\:I1265")[0].text,
+                "Resultado": soup.select("ipp_ge\:I1288")[0].text,
+                "BPA": soup.select("ipp_ge\:I1290")[0].text,
                 "bpa_diluido": soup.select("ipp_ge\:I1295")[0].text,
 
                 #"dividendos": soup.select("ipp_ge\:I1258"),
 
                 # Balance
-                "activo": soup.select("ipp_ge\:I0100")[0].text,
-                "activo_anterior": soup.select("ipp_ge\:I0100")[0].text,
-                "pasivo": soup.select("ipp_ge\:I0195")[0].text,
+                "Activo": soup.select("ipp_ge\:I0100")[0].text,
+                "Pasivo": soup.select("ipp_ge\:I0195")[0].text,
                 "patrimonio_neto_1": soup.select("ipp_ge\:I0120")[0].text,
                 "patrimonio_neto_2": soup.select("ipp_ge\:I0130")[0].text,
                 
-                # Flujos de caja
-                "patrimonio_neto_2": soup.select("ipp_ge\:I0130")[0].text,
-                "patrimonio_neto_2": soup.select("ipp_ge\:I0130")[0].text,
-                "patrimonio_neto_2": soup.select("ipp_ge\:I0130")[0].text,
-
                 # Plantilla
-                "plantilla": soup.select("ipp_ge\:I2295")[0].text,
-                "hombres": soup.select("ipp_ge\:I2296")[0].text,
-                "mujeres": soup.select("ipp_ge\:I2297")[0].text,
+                "Plantilla": soup.select("ipp_ge\:I2295")[0].text,
+                "Hombres": soup.select("ipp_ge\:I2296")[0].text,
+                "Mujeres": soup.select("ipp_ge\:I2297")[0].text,
 
                 "startdate": soup.select("xbrli\:startdate")[0].text,
                 "enddate": soup.select("xbrli\:enddate")[0].text
@@ -59,10 +53,10 @@ def clean(f_data, path):
     df_fund['enddate'] =pd.to_datetime(df_fund.enddate)
     df_fund['mediumdate'] =((df_fund.enddate-df_fund.startdate)/2 + pd.to_datetime(df_fund.enddate))
 
-    print()
+    df_fund['PN'] = df_fund['patrimonio_neto_1'] + df_fund['patrimonio_neto_2']
+
     df_fund['year'] =pd.DatetimeIndex(df_fund['startdate']).year
     df_fund['semestre'] =pd.DatetimeIndex(df_fund['startdate']).month
     df_fund['semestre'] = df_fund['semestre'].apply(lambda x: "S1" if x == 1 else "S2")
 
-    print(df_fund)
     return df_fund

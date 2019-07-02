@@ -7,6 +7,10 @@ import readAPI
 import drawPlot
 import getQuery
 import sendMail
+import createPDF
+
+import warnings
+warnings.filterwarnings("ignore")
 
 # Pedimos por terminal el nombre de la empresa
 query, data_plot = getQuery.getQuery()
@@ -29,5 +33,8 @@ df = readAPI.read_api(query)
 # Crea los gráficos
 img_file = drawPlot.drawPlot(df, df_fund, query, data_plot)
 
+# Crea los gráficos
+pdf_file = createPDF.createPDF(img_file)
+
 # Enviamos un correo electrónico
-sendMail.sendMail(img_file)
+sendMail.sendMail(pdf_file)
