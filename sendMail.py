@@ -1,3 +1,5 @@
+# Función para enviar un correo con un pdf adjunto
+
 import smtplib
 import email
 import email.mime
@@ -59,5 +61,3 @@ def sendMail(FileName):
         print("Mensaje enviado correctamente")
 
     server.close()
-
-sendMail("AENA-resultado.pdf")

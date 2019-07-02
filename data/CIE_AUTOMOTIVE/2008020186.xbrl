@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli_2:xbrl xmlns:xbrli_2="http://www.xbrl.org/2003/instance" xmlns:xbrll_2="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dgi="http://www.xbrl.org.es/gp/dgi-2005-03-10" xmlns:dgi-lc-es="http://www.xbrl.org.es/gp/dgi-lc-es-2005-03-10" xmlns:dgi-lc-int="http://www.xbrl.org.es/gp/dgi-lc-int-2005-03-10" xmlns:ipp="http://www.cnmv.es/ipp/2005" xmlns:ipp-com="http://www.cnmv.es/ipp/com/1-2005/2005-06-30" xmlns:ipp-mas-pat="http://www.cnmv.es/ipp/mas/pat/1-2005/2005-06-30" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ipp-gen="http://www.cnmv.es/ipp/gen/1-2005/2005-06-30" xmlns:ipp-gen-ind="http://www.cnmv.es/ipp/gen/ind/1-2005/2005-06-30" xmlns:ipp-gen-con="http://www.cnmv.es/ipp/gen/con/1-2005/2005-06-30">
+<xbrll_2:schemaRef xlink:type="simple" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ipp-gen-ind-2005-06-30.xsd"/>
+<xbrll_2:schemaRef xlink:type="simple" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ipp-gen-con-2005-06-30.xsd"/>
+	<xbrli_2:context id="S22007_A-20014452_dci">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:startDate>2007-01-01</xbrli_2:startDate>
+			<xbrli_2:endDate>2007-12-31</xbrli_2:endDate>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22007_A-20014452_ici">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:instant>2007-12-31</xbrli_2:instant>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22006_A-20014452_dpi">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:startDate>2006-01-01</xbrli_2:startDate>
+			<xbrli_2:endDate>2006-12-31</xbrli_2:endDate>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22006_A-20014452_ipi">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:instant>2006-12-31</xbrli_2:instant>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Individual</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22007_A-20014452_dcc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:startDate>2007-01-01</xbrli_2:startDate>
+			<xbrli_2:endDate>2007-12-31</xbrli_2:endDate>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22007_A-20014452_icc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:instant>2007-12-31</xbrli_2:instant>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22006_A-20014452_dpc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:startDate>2006-01-01</xbrli_2:startDate>
+			<xbrli_2:endDate>2006-12-31</xbrli_2:endDate>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22006_A-20014452_ipc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:instant>2006-12-31</xbrli_2:instant>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado>Consolidado</ipp:Apartado>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22007_A-20014452_dcccc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:startDate>2007-01-01</xbrli_2:startDate>
+			<xbrli_2:endDate>2007-12-31</xbrli_2:endDate>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado/>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22007_A-20014452_icccc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:instant>2007-12-31</xbrli_2:instant>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado/>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22006_A-20014452_dpccc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:startDate>2006-01-01</xbrli_2:startDate>
+			<xbrli_2:endDate>2006-12-31</xbrli_2:endDate>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado/>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:context id="S22006_A-20014452_ipccc">
+		<xbrli_2:entity>
+			<xbrli_2:identifier scheme="http://www.cnmv.es/xbrl/ipp/A-20014452">CIE Automotive, S.A.</xbrli_2:identifier>
+			<xbrli_2:segment>
+				<ipp:referencia>8986FTCU</ipp:referencia>
+				<ipp:version>5.1.3</ipp:version>
+			</xbrli_2:segment>
+		</xbrli_2:entity>
+		<xbrli_2:period>
+			<xbrli_2:instant>2006-12-31</xbrli_2:instant>
+		</xbrli_2:period>
+		<xbrli_2:scenario>
+			<ipp:Modelo>GE</ipp:Modelo>
+			<ipp:Apartado/>
+		</xbrli_2:scenario>
+	</xbrli_2:context>
+	<xbrli_2:unit id="euro">
+		<xbrli_2:measure>iso4217:EUR</xbrli_2:measure>
+	</xbrli_2:unit>
+	<xbrli_2:unit id="pure">
+		<xbrli_2:measure>xbrli_2:pure</xbrli_2:measure>
+	</xbrli_2:unit>
+	<dgi:LegalName>
+		<dgi:LegalNameType>
+		<dgi-lc-es:Xcode_NMT.DS contextRef="S22007_A-20014452_ici">DS</dgi-lc-es:Xcode_NMT.DS></dgi:LegalNameType>
+		<dgi:LegalNameValue contextRef="S22007_A-20014452_ici">CIE Automotive, S.A.</dgi:LegalNameValue></dgi:LegalName>
+	<dgi:EntityAddress>
+		<dgi:AddressType>
+			<dgi:AddressTypeList>
+				<dgi-lc-es:Xcode_ADL.01 contextRef="S22007_A-20014452_ici">01</dgi-lc-es:Xcode_ADL.01></dgi:AddressTypeList></dgi:AddressType>
+		<dgi:Address>
+			<dgi:AddressFormat>
+				<dgi-lc-int:Xcode_UN3477.05 contextRef="S22007_A-20014452_ici">05</dgi-lc-int:Xcode_UN3477.05></dgi:AddressFormat>
+			<dgi:AddressLine contextRef="S22007_A-20014452_ici">C/Iparraguirre, 34 - 2º derecha (48011 Bilbao)</dgi:AddressLine></dgi:Address></dgi:EntityAddress>
+	<dgi:Identifier>
+		<dgi:IdentifierCode><dgi-lc-es:Xcode_IDC.CIF contextRef="S22007_A-20014452_ici"/></dgi:IdentifierCode>
+		<dgi:IdentifierValue contextRef="S22007_A-20014452_ici">A-20014452</dgi:IdentifierValue></dgi:Identifier>
+	<dgi:ContactPerson>
+		<dgi:PersonName>
+			<dgi:FormattedName contextRef="S22007_A-20014452_ici">D. Ignacio Martín San Vicente (Consejero Delegado). Poder otorgado el 27/04/2007 ante el notario D. Ramón Múgica Alcorta.</dgi:FormattedName></dgi:PersonName></dgi:ContactPerson>
+	<ipp-com:VariacionSociedadesGrupoConsolidado contextRef="S22007_A-20014452_dci">Durante le ejercicio 2007, el perímetro dle Grupo CIE Automotive se ha visto modificado por la siguientes combinaciones de negocios:
+
+SECTOR AUTOMOCION
+
+- Desde el 28 de diciembre de 2006 se excluye GSB Acero, S.A.
+
+- En enero de 2007 y a través de su filial brasileña CIE Autometal, S.A., ha formalizado la adquisición de la totalidad del capital social de la sociedad brasileña Nakayone Emprendimentos e Participações, S.A., socia única de la sociedad Metalúrgica Nakayone Ltda., especializada en estampación y componentes soldados.
+
+- También en enero de 2007 ha suscrito, junto con su sociedad filial CIE-DESC AUTOMOTIVE, S.A. de C.V., un contrato para la adquisición del 100% del capital social del Grupo mexicano NUGAR, especializado en componentes y conjuntos estampados y de soldadura. El cierre de la operación ha sido realizado en marzo de 2007.
+
+- En enero de 2007 ha formalizado un contrato para la adquisición de la totalidad del capital social del Grupo Recyde, S.L. En el contexto del cierre de la operación, CIE Automotive ha suscrito adicionalmente un contrato recíproco de opción de compra y opción de venta por la totalidad de las participaciones sociales de Fundición Alcasting, S.L.
+
+- En agosto de 2007 su sociedad participada CIE-DESC AUTOMOTIVE, S.A. de C.V. y diversas sociedades filiales de ésta han suscrito un contrato para “la compraventa de los activos, derechos y asunción de obligaciones” correspondientes a la planta de Ramos Arizpe, Coahuila, México, propiedad del Grupo Duroplast, dedicada a la fabricación y comercialización de piezas de inyección de plástico y ensambles. El cierre de la operación ha sido realizado en octubre de 2007.
+
+- En noviembre de 2007 el Grupo ha formalizado la adquisición de la totalidad de las acciones representativas del 100% del capital social de la sociedad de nacionalidad lituana UAB CIE Lt. Forge (antes UAB Peer Industries), dedicada a la fabricación de componentes de forja y mecanizado para el automóvil.
+
+SECTOR BIOCOMBUSTIBLES / BIOCARBURANTES
+
+- En julio de 2007 y a través de su sociedad filial Bionor Transformación, S.A., el Grupo CIE AUTOMOTIVE ha formalizado la adquisición del 51% del capital social de la sociedad Reciclado de Residuos Grasos, S.L., dedicada a la recogida de aceites vegetales usados.
+
+- En septiembre de 2007 y a través de su sociedad filial Bionor Transformación, S.A., el Grupo CIE AUTOMOTIVE ha suscrito una ampliación de capital en virtud de la cual se ha convertido en titular del 51% de las acciones de la sociedad Biocombustibles de Guatemala, S.A., empresa líder en la región centroamericana en la investigación y desarrollo del cultivo de Jatropha curcas.
+
+- Con fecha 13 de noviembre de 2007 y a través de su filial CIE Autometal, S.A., se suscribió un acuerdo para la constitución, junto con la sociedad NNE Minas Agro Florestal Ltda. y una serie de investigadores brasileños relacionados con NNE, de una “joint-venture” dedicada a la agrobiotecnología.</ipp-com:VariacionSociedadesGrupoConsolidado>
+	<ipp-com:BasesPresentacionNormasValoracion contextRef="S22007_A-20014452_dci">CIE Automotive, S.A.:
+Se han aplicado los mismos principios, criterios y políticas contables que en las últimas Cuentas Anuales
+individuales y que responden a lo previsto en la normativa contable en vigor de carácter nacional.
+
+Grupo consolidado:
+Se han aplicado los principios de reconocimiento y valoración de acuerdo con las NIC/NIIF adoptadas y que
+incluyen la aplicación de las NIC 32 y 39 y la NIIF 4 desde el 1/1/2004.
+
+Los principales criterios de valoración y políticas contables aplicados por el Grupo CIE Automotive en la
+elaboración de sus estados financieros consolidados son:
+- Inmovilizado material: se aplica en todos los casos el modelo de coste.
+- Activos intangibles: se aplica en todos los casos el modelo de coste.
+- Se han definido Unidades Generadoras de Efectivo a efectos de comprobar si se han producido deterioros de valor de los fondos de comercio y otros activos.
+- Se han definido los objetivos y políticas de gestión de riesgos financieros. Se han establecido criterios para
+clasificar los instrumentos financieros y se han definido los correspondientes métodos de valoración.
+- Las sociedades dependientes se han consolidado por el método de integración global, salvo que representen un
+interés poco significativo con respecto a la imagen fiel del Grupo.
+- Las bases imponible negativas están activadas si su recuperabilidad está asegurada.
+- Todas las pérdidas y ganancias actuariales están reconocidas.
+
+Dentro de las posibilidades planteadas por la NIIF 1, las principales alternativas utilizadas por el Grupo CIE
+Automotive en la elaboración de sus estados financieros consolidados son:
+- Se ha optado por considerar nulas todas las diferencias de conversión acumuladas a la fecha de transición.
+- Se ha optado por no reconstruir combinaciones de negocios.
+- Se ha utilizado el valor razonable como coste atribuido para determinar el importe en libros de los terrenos.
+
+En el apartado S-GE-6 se presenta el balance consolidado comparativo entre normativa contable en vigor de
+carácter nacional y NIC/NIIF adoptadas. A continuación se detallan los efectos patrimoniales de los ajustes más
+significativos de la conversión (netos de efecto impositivo) a NIC/NIIF del balance consolidado de apertura del
+ejercicio 2005. La suma total de estos efectos aumenta el patrimonio en 9,7mio€:
+- Se han realizado revalorizaciones selectivas de terrenos, de acuerdo con la NIIF 1: +24,2MIO€.
+- Se han dado de baja activos intangibles (principalmente gastos de establecimiento y gastos de investigación), de
+acuerdo con la NIC 38: -3,8MIO€.
+- Se han reclasificado a patrimonio la autocartera y los gastos de incremento de capital, de acuerdo con la NIC 32: -
+0,8MIO€.
+- Se han reclasificado a patrimonio los intereses minoritarios, de acuerdo con la NIC 1: +0,6MIO€.
+- No se han amortizado sistemáticamente los fondos de comercio sino que se han sometido a un test de deterioro de valor, de acuerdo con la NIC 36: +3,3MIO€.
+- Se han converstido los fondos de comercio de sociedades extranjeras a su moneda local, de acuerdo con las NIIF 1- NIC 21: -6,9 MIO€.
+- Se han eliminado las diferencias negativas de consolidación, de acuerdo con la IFRS 3: +4,7MIO€.
+- Se ha diferido la imputación a resultados de las deducciones fiscales por inversión en activo fijo nuevo asociadas a activos pendientes de amortizar: -13,8MIO€.
+- Se han reconocido por su valor razonable todos los derivados existentes (seguros de tipo de cambio y de tipo de interés), de acuerdo con las NIC 32/39: +2,2MIO€.</ipp-com:BasesPresentacionNormasValoracion>
+	<ipp-com:EvolucionNegocios>
+		<ipp-com:EvolucionNegociosDescripcion contextRef="S22007_A-20014452_dci">Ver fichero adjunto.</ipp-com:EvolucionNegociosDescripcion>
+	</ipp-com:EvolucionNegocios>
+	<ipp-com:EvolucionNegocios>
+		<ipp-com:FicheroAdjunto>
+			<ipp-com:NombreFicheroAdjunto contextRef="S22007_A-20014452_dci">Evolución de los negocios_1207.pdf</ipp-com:NombreFicheroAdjunto>
+			<ipp-com:TipoMimeFicheroAdjunto contextRef="S22007_A-20014452_dci">pdf</ipp-com:TipoMimeFicheroAdjunto>
+			<ipp-com:ContenidoFicheroAdjunto contextRef="S22007_A-20014452_dci">JVBERi0xLjQNJeLjz9MNCjMwIDAgb2JqDTw8L0xpbmVhcml6ZWQgMS9MIDQ5ODU5L08gMzIv
+RSAyNTI4MC9OIDUvVCA0OTIxMi9IIFsgOTU2IDM1MF0+Pg1lbmRvYmoNICAgICAgICAgICAg
+ICAgICAgDQp4cmVmDQozMCAzMw0KMDAwMDAwMDAxNiAwMDAwMCBuDQowMDAwMDAxMzA2IDAw
+MDAwIG4NCjAwMDAwMDEzODcgMDAwMDAgbg0KMDAwMDAwMTU2NyAwMDAwMCBuDQowMDAwMDAx
+NzY0IDAwMDAwIG4NCjAwMDAwMDI0MzIgMDAwMDAgbg0KMDAwMDAwMzE2NyAwMDAwMCBuDQow
+MDAwMDAzMjAyIDAwMDAwIG4NCjAwMDAwMDM0MzIgMDAwMDAgbg0KMDAwMDAwMzY1NiAwMDAw
+MCBuDQowMDAwMDAzNzMzIDAwMDAwIG4NCjAwMDAwMDQ0MDIgMDAwMDAgbg0KMDAwMDAwNDU2
+MCAwMDAwMCBuDQowMDAwMDA1MjM5IDAwMDAwIG4NCjAwMDAwMDU0ODIgMDAwMDAgbg0KMDAw
+MDAwNTc0MSAwMDAwMCBuDQowMDAwMDA2NDEzIDAwMDAwIG4NCjAwMDAwMDY1NDQgMDAwMDAg
+bg0KMDAwMDAwNzE4OCAwMDAwMCBuDQowMDAwMDA3NDc1IDAwMDAwIG4NCjAwMDAwMDc2OTcg
+MDAwMDAgbg0KMDAwMDAwODM2MiAwMDAwMCBuDQowMDAwMDA4OTk2IDAwMDAwIG4NCjAwMDAw
+MDk2NzAgMDAwMDAgbg0KMDAwMDAxMDMyOSAwMDAwMCBuDQowMDAwMDExMDA5IDAwMDAwIG4N
+CjAwMDAwMTUyMDQgMDAwMDAgbg0KMDAwMDAxNTgyMSAwMDAwMCBuDQowMDAwMDE4NTE0IDAw
+MDAwIG4NCjAwMDAwMjIyNjYgMDAwMDAgbg0KMDAwMDAyMjQ5NiAwMDAwMCBuDQowMDAwMDIy
+NzAyIDAwMDAwIG4NCjAwMDAwMDA5NTYgMDAwMDAgbg0KdHJhaWxlcg0KPDwvU2l6ZSA2My9Q
+cmV2IDQ5MjAxL1Jvb3QgMzEgMCBSL0luZm8gMjkgMCBSL0lEWzwxNTUzRjcyMDAzMzM5NEFF
+NUYyOUY3ODc2MDk3MEMxMj48MTQxNjdCRjY4NTY1M0Y0N0JDNEI2MEYwQjQxRkQzQUY+XT4+
+DQpzdGFydHhyZWYNCjANCiUlRU9GDQogICAgICAgICAgICAgDQo2MiAwIG9iag08PC9MZW5n
+dGggMjYyL0ZpbHRlci9GbGF0ZURlY29kZS9JIDMxMC9MIDI5NC9TIDIwMT4+c3RyZWFtDQp4
+2mJgYGBmYGDhZWBlYOAOZeBnQAB+oBgbAwsDx40mBoYlDPIH7AMSAxgYlr7vbGBABQIBbTyb
+JtqUP+7iiHN4ejNzO4uIYrPDE3+ZTT1qmSmx06NyD7JyJJxRZZ5oU3Sqy1IVJnJao5jT5Yd8
+l+nNEqApgoJKShUdHVAzBdMqOsD2MCkbG8OFBUHCHRCWoGBFA8JZIGcAnbkUSMsBsTpYRJmB
+l6VDo+WT9gEGZh7xBVrCF+SOcvAyFHB+4WFKZH+gd+SNaqF954GADQ5CRjPmcvEYhC7fo5lQ
+w9agzdikfiC15Qe/A8yPkgwM6x6DnAPEtkAsy8Cw9w6QZgTi7wABBgAa4ktdDQplbmRzdHJl
+YW0NZW5kb2JqDTMxIDAgb2JqDTw8L01ldGFkYXRhIDI4IDAgUi9QYWdlcyAyNyAwIFIvVHlw
+ZS9DYXRhbG9nL1BhZ2VMYWJlbHMgMjUgMCBSPj4NZW5kb2JqDTMyIDAgb2JqDTw8L0Nyb3BC
+b3hbMCAwIDU5NSA4NDJdL1BhcmVudCAyNyAwIFIvQ29udGVudHNbNDAgMCBSIDQ1IDAgUiA1
+MCAwIFIgNTEgMCBSIDUyIDAgUiA1MyAwIFIgNTQgMCBSIDU2IDAgUl0vUm90YXRlIDAvTWVk
+aWFCb3hbMCAwIDU5NSA4NDJdL1Jlc291cmNlcyAzMyAwIFIvVHlwZS9QYWdlPj4NZW5kb2Jq
+DTMzIDAgb2JqDTw8L1hPYmplY3Q8PC9JbTEgNTUgMCBSPj4vQ29sb3JTcGFjZTw8L0NzNiAz
+NiAwIFI+Pi9Gb250PDwvVFQyIDM0IDAgUi9UVDQgMzUgMCBSL1RUNiA0MSAwIFIvVFQ4IDQy
+IDAgUi9UVDkgNDYgMCBSL1RUMTEgNDcgMCBSPj4vUHJvY1NldFsvUERGL1RleHQvSW1hZ2VD
+XS9FeHRHU3RhdGU8PC9HUzEgMzkgMCBSPj4+Pg1lbmRvYmoNMzQgMCBvYmoNPDwvU3VidHlw
+ZS9UcnVlVHlwZS9Gb250RGVzY3JpcHRvciAzNyAwIFIvTGFzdENoYXIgMjQzL1dpZHRoc1sz
+NDIgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDM2MSAwIDAgNjg5IDcxMSAwIDcxMSAwIDAgMCAw
+IDcxMSAwIDAgMCAwIDAgMCAwIDAgMCA3NzYgNzYyIDcyNCA4MzAgNjgzIDAgODExIDAgNTQ2
+IDAgMCA2MzcgOTQ4IDg0NyA4NTAgNzMzIDAgNzgyIDcxMCA2ODIgODEyIDc2NCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDY2OCA2OTkgNTg4IDY5OSA2NjQgMCA2OTkgMCAzNDIgMCAwIDM0MiAx
+MDU4IDcxMiA2ODcgNjk5IDAgNDk3IDU5MyA0NTYgNzEyIDY1MCAwIDAgNjUxIDU5NyAwIDAg
+MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMCAwIDAgMCA1OTggMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCA2NjQgMCAwIDAgMzQyIDAgMCAwIDAgMCA2ODddL0Jhc2VGb250L1ZlcmRhbmEtQm9sZC9G
+aXJzdENoYXIgMzIvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL1R5cGUvRm9udD4+DWVuZG9i
+ag0zNSAwIG9iag08PC9TdWJ0eXBlL1RydWVUeXBlL0ZvbnREZXNjcmlwdG9yIDM4IDAgUi9M
+YXN0Q2hhciAyNTAvV2lkdGhzWzM1MiAwIDAgMCAwIDEwNzYgMCAwIDQ1NCA0NTQgMCA4MTgg
+MzY0IDQ1NCAzNjQgNDU0IDYzNiA2MzYgNjM2IDYzNiA2MzYgNjM2IDYzNiA2MzYgNjM2IDYz
+NiA0NTQgNDU0IDAgMCAwIDAgMCA2ODQgNjg2IDY5OCA3NzEgNjMyIDU3NSA3NzUgMCA0MjEg
+MCAwIDU1NyA4NDMgNzQ4IDc4NyA2MDMgMCA2OTUgNjg0IDYxNiA3MzIgNjg0IDAgMCAwIDY4
+NSAwIDAgMCAwIDAgMCA2MDEgNjIzIDUyMSA2MjMgNTk2IDM1MiA2MjMgNjMzIDI3NCAzNDQg
+NTkyIDI3NCA5NzMgNjMzIDYwNyA2MjMgNjIzIDQyNyA1MjEgMzk0IDYzMyA1OTIgMCA1OTIg
+NTkyIDUyNSAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCA0NTkgNDU5IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+NjAxIDAgMCAwIDAgMCA1MjEgMCA1OTYgMCAwIDAgMjc0IDAgMCAwIDYzMyAwIDYwNyAwIDYw
+NyAwIDAgMCAwIDYzM10vQmFzZUZvbnQvVmVyZGFuYS9GaXJzdENoYXIgMzIvRW5jb2Rpbmcv
+V2luQW5zaUVuY29kaW5nL1R5cGUvRm9udD4+DWVuZG9iag0zNiAwIG9iag1bL0lDQ0Jhc2Vk
+IDU3IDAgUl0NZW5kb2JqDTM3IDAgb2JqDTw8L1N0ZW1WIDE3Ni9Gb250TmFtZS9WZXJkYW5h
+LUJvbGQvRm9udFN0cmV0Y2gvTm9ybWFsL0ZvbnRXZWlnaHQgNzAwL0ZsYWdzIDMyL0Rlc2Nl
+bnQgLTIwOS9Gb250QkJveFstNzMgLTIwOCAxNzA3IDEwMDBdL0FzY2VudCAxMDA1L0ZvbnRG
+YW1pbHkoVmVyZGFuYSkvQ2FwSGVpZ2h0IDczNC9YSGVpZ2h0IDU0Ni9UeXBlL0ZvbnREZXNj
+cmlwdG9yL0l0YWxpY0FuZ2xlIDA+Pg1lbmRvYmoNMzggMCBvYmoNPDwvU3RlbVYgOTIvRm9u
+dE5hbWUvVmVyZGFuYS9Gb250U3RyZXRjaC9Ob3JtYWwvRm9udFdlaWdodCA0MDAvRmxhZ3Mg
+MzIvRGVzY2VudCAtMjA5L0ZvbnRCQm94Wy01MCAtMjA3IDE0NDcgMTAwMF0vQXNjZW50IDEw
+MDUvRm9udEZhbWlseShWZXJkYW5hKS9DYXBIZWlnaHQgNzM0L1hIZWlnaHQgNTQ2L1R5cGUv
+Rm9udERlc2NyaXB0b3IvSXRhbGljQW5nbGUgMD4+DWVuZG9iag0zOSAwIG9iag08PC9PUE0g
+MS9PUCBmYWxzZS9vcCBmYWxzZS9UeXBlL0V4dEdTdGF0ZS9TQSBmYWxzZS9TTSAwLjAyPj4N
+ZW5kb2JqDTQwIDAgb2JqDTw8L0xlbmd0aCA1OTkvRmlsdGVyL0ZsYXRlRGVjb2RlPj5zdHJl
+YW0NCkiJdFPLcptAELzzFXPcPTDaXXYXOPpBqZRyrHKEk0MqB4yRSykBDkhJ5dfyW/6BzPCw
+FSUpqcQwDD3d263FcqPhqQ8u82CR5wY05NtAG1D0oUviUCUQpxatURHkdbC46j2U/TCgoC+b
+QEFe8s+PQIDMvwZaoZoAhmrC8AlaO2KgAf56FaVmgAhRKW0ZhwqVMtZnkX2UoUUj1jcyRi3u
+r1brW7jO4Ga9AenFbbZcU2sjv+TvgiwP5jUeYw86tujpwvu7KtiyvnNexqUY2z+InUsJdYw2
+0hpCjUalHvLrgWvkeZArM5E1MnTE9RdTjgVs+DYWmQwjov4+2+QfuJPMHZChF0aNL6n4TIMj
+8pZYxmjMXxrSZNZAlU4NRvSCx8jMEv7nC+F/I2tJux2PwWkkIVHiMTEQW4VkLBm8qjVct8Ed
+T8MOAqc80jFFCZJFjkpNafBM6RM0A6nXuEyjDKVGOq+r76aI2Sli/w5JpNAlb0LQKU2nzmpG
+oFN17Il2gyfzwxObTlvTFPtFqzhlRjk3GndTwE5acqaRoSFntm1XF+XYepEaU9HAdpoomulB
+xS5GoivgsdrDsjs+t3C1ymDw0Wh0qWGX5p1+3jmF5eJ4aCnTTtTtgQGt+F5BXw2heO6qvmoO
+Bd0/1Vw8FlA1I3I4Q5+J0qMoSrF+W1C35e6lgZ9wuWvLtuZgevFw7A+7h33Vw2LoF93DcSRt
+CDmZSDPn8d9oo2Q6p65oDlWPcAGlJJNFK+kN0RB/ioRojnxmXL00JMgJlvNYHYr9fugWsC9I
+A/wWYACk8QE7DQplbmRzdHJlYW0NZW5kb2JqDTQxIDAgb2JqDTw8L1N1YnR5cGUvVHJ1ZVR5
+cGUvRm9udERlc2NyaXB0b3IgNDQgMCBSL0xhc3RDaGFyIDMyL1dpZHRoc1szNDVdL0Jhc2VG
+b250L0FORFBOTytFdXJvc3RpbGUvRmlyc3RDaGFyIDMyL0VuY29kaW5nL1dpbkFuc2lFbmNv
+ZGluZy9UeXBlL0ZvbnQ+Pg1lbmRvYmoNNDIgMCBvYmoNPDwvU3VidHlwZS9UcnVlVHlwZS9G
+b250RGVzY3JpcHRvciA0MyAwIFIvTGFzdENoYXIgMjQzL1dpZHRoc1szNDIgMCAwIDAgMCAx
+MjcyIDAgMCA1NDMgNTQzIDcxMSA4NjcgMzYxIDAgMCAwIDcxMSA3MTEgNzExIDcxMSA3MTEg
+NzExIDAgMCA3MTEgNzExIDQwMiAwIDAgMCAwIDAgMCA3NzYgNzYyIDcyNCA4MzAgNjgzIDAg
+MCAwIDU0NiA1NTUgMCAwIDAgMCAwIDAgMCA3ODIgMCA2ODIgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgNjY4IDY5OSA1ODggNjk5IDY2NCA0MjIgNjk5IDcxMiAzNDIgNDAzIDAgMzQyIDEw
+NTggNzEyIDY4NiA2OTkgMCA0OTcgNTkzIDQ1NiA3MTIgNjQ5IDAgMCAwIDU5NyAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjY0
+IDAgMCAwIDAgMCAwIDAgMCAwIDY4Nl0vQmFzZUZvbnQvVmVyZGFuYS1Cb2xkSXRhbGljL0Zp
+cnN0Q2hhciAzMi9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvVHlwZS9Gb250Pj4NZW5kb2Jq
+DTQzIDAgb2JqDTw8L1N0ZW1WIDE3My4wNTYvRm9udE5hbWUvVmVyZGFuYS1Cb2xkSXRhbGlj
+L0ZvbnRTdHJldGNoL05vcm1hbC9Gb250V2VpZ2h0IDcwMC9GbGFncyA5Ni9EZXNjZW50IC0y
+MDkvRm9udEJCb3hbLTE2NiAtMjA4IDE3MDUgMTAwMF0vQXNjZW50IDEwMDUvRm9udEZhbWls
+eShWZXJkYW5hKS9DYXBIZWlnaHQgNzM0L1hIZWlnaHQgNTQ2L1R5cGUvRm9udERlc2NyaXB0
+b3IvSXRhbGljQW5nbGUgLTE1Pj4NZW5kb2JqDTQ0IDAgb2JqDTw8L1N0ZW1WIDc5L0ZvbnRO
+YW1lL0FORFBOTytFdXJvc3RpbGUvRm9udFN0cmV0Y2gvTm9ybWFsL0ZvbnRGaWxlMiA2MSAw
+IFIvRm9udFdlaWdodCA0MDAvRmxhZ3MgMzIvRGVzY2VudCAtMjUwL0ZvbnRCQm94Wy02NyAt
+MjUwIDEyNjAgOTY4XS9Bc2NlbnQgOTY3L0ZvbnRGYW1pbHkoRXVyb3N0aWxlKS9DYXBIZWln
+aHQgNzUwL1hIZWlnaHQgNTI1L1R5cGUvRm9udERlc2NyaXB0b3IvSXRhbGljQW5nbGUgMC9T
+dGVtSCA2ND4+DWVuZG9iag00NSAwIG9iag08PC9MZW5ndGggNjAyL0ZpbHRlci9GbGF0ZURl
+Y29kZT4+c3RyZWFtDQpIiVxUy47TMBTd5yvu0kaNsZ04j2VnGKEZAbMgrEYs3NStjNIYJemg
+4TfgT+cHuH4ESlWpuXKS87qn7R6yXEqm2qaBXDDJ2wq6d1nOOOcldH2GgxTQ/cieiHl2Ay1Z
+Rc69DddXKlhNRtgbiDdcOJhhNEeXnnEz7ON0MJOhX7uHTCjW1hXwv0T1SlRGorG3etw7eNG0
+ZoKAPu30DLpf7LPd672ZGUBAyhOUVy5UUM49Fvc4BGj3DccrW0IGNiGqOrLdoQHbW3PaTQYk
+5xXc3t/B9ry4k0PGpLlhXBXtP9FiRVERZYMpjMvkfBjzGcy8THoxR6v9wcH1NK9YSzRlDRns
+T93b1xHMCIOeaV6T1U5iufATAmoCmWxVG8kuovC4+P6v3k3mN3INIfyouWSqkpeay4Sziu4t
+6kV+DNng6hRJtoO6F7ixrnc0V0yS07q5oq7lBWKbEFOWuzPNC7Q4L/4qiN0NZt74uSTwfXK9
+2dtXQM1Eo3WvXazeZcvaEmO9XpeK5RBKRopnjNmHitVAzEHDjHINZgHvP9/AtjeTY/BBgx0P
+boqyJVormssgihV0zdMbPthRY/XMpEOOszmefQtnc/LbNH6RSWrCu1qTEGuPmwgbymTHfji/
+mA3MFjeOTaZ+YdPRbWDwPw69+G8T1NOKJAOB6L/uXhf7bddJQMZDeiwJiTe7N14HDzafyPYL
+LbB83ePHR+oTv6UKs7vHjRfk8VOguuuyRjEsmqo5ayqoG9aUIBiXMJnskN10nrCKhIL7c46f
+OIkK4SW+in8kpSc9ZfBHgAEAXEQZ6A0KZW5kc3RyZWFtDWVuZG9iag00NiAwIG9iag08PC9T
+dWJ0eXBlL1R5cGUwL0Rlc2NlbmRhbnRGb250c1s2MCAwIFJdL0Jhc2VGb250L0FORFBPTCtT
+eW1ib2xNVC9Ub1VuaWNvZGUgNDggMCBSL0VuY29kaW5nL0lkZW50aXR5LUgvVHlwZS9Gb250
+Pj4NZW5kb2JqDTQ3IDAgb2JqDTw8L1N1YnR5cGUvVHJ1ZVR5cGUvRm9udERlc2NyaXB0b3Ig
+NDkgMCBSL0xhc3RDaGFyIDI0My9XaWR0aHNbMjc4IDAgMCAwIDAgODg5IDAgMCAzMzMgMzMz
+IDM4OSAwIDI3OCAwIDI3OCAwIDU1NiA1NTYgNTU2IDU1NiA1NTYgNTU2IDU1NiA1NTYgNTU2
+IDU1NiAwIDAgMCAwIDAgMCAwIDAgMCAwIDcyMiAwIDAgNzc4IDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTU2IDAgNTAwIDU1NiA1NTYgMjc4
+IDAgMCAyMjIgMCAwIDIyMiA4MzMgNTU2IDU1NiA1NTYgMCAzMzMgNTAwIDI3OCA1NTYgNTAw
+IDAgMCAwIDUwMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA1NTZdL0Jhc2VGb250L0FyaWFs
+TVQvRmlyc3RDaGFyIDMyL0VuY29kaW5nL1dpbkFuc2lFbmNvZGluZy9UeXBlL0ZvbnQ+Pg1l
+bmRvYmoNNDggMCBvYmoNPDwvTGVuZ3RoIDIxNy9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVh
+bQ0KaN5UUD1PxTAM3PMrPIIYkhchAVLV5bF04EO0sOclbolEnchNh/57kqh9iMG2fPbpzpbn
+7rkjn0C+c7A9Jhg9OcYlrGwRLjh5gpMG523au5rtbCLITO63JeHc0RigaYT8yMMl8QY3w/B0
+p25BvrFD9jRl5F5/fmWkX2P8wRkpgYK2BYejkOcXE1/NjCAr8Q8ctoiga3/atYPDJRqLbGhC
+aJR6eGyPguT+zw/WZbTfhsWxrZXWrcjbO1545aarD7syZ4v18GqkWPCE19/EEItaCfErwADt
+jGqYCg0KZW5kc3RyZWFtDWVuZG9iag00OSAwIG9iag08PC9TdGVtViA4OC9Gb250TmFtZS9B
+cmlhbE1UL0ZvbnRTdHJldGNoL05vcm1hbC9Gb250V2VpZ2h0IDQwMC9GbGFncyAzMi9EZXNj
+ZW50IC0yMTEvRm9udEJCb3hbLTY2NSAtMzI1IDIwMDAgMTAwNl0vQXNjZW50IDkwNS9Gb250
+RmFtaWx5KEFyaWFsKS9DYXBIZWlnaHQgNzE4L1hIZWlnaHQgNTE1L1R5cGUvRm9udERlc2Ny
+aXB0b3IvSXRhbGljQW5nbGUgMD4+DWVuZG9iag01MCAwIG9iag08PC9MZW5ndGggNTk1L0Zp
+bHRlci9GbGF0ZURlY29kZT4+c3RyZWFtDQpIiVRTTW+cMBC98yvmaEuFYGMM5FZtq6qR2ku4
+RTk44N0SsXZkIFH6b/MDeqj6Bzr+2M1GHLDH4zfvvRlz6F12tVsk7G6hDN/t7mdWwg2uHqHg
+8AIMfsDdfQkjhvshI0D7x+yq71s86fc+6LK8KVrZVpCzgpedhP5LyitDiNUhlBdlWTYexC84
+9C/ZHdlZs9h5GtUw/TMwaphpXbRE0bwqBAG9rE6t+jB9iGLa4PQwHWNYU1E0xKwWnDZrzHyY
+NdD7/sZTlSeqSIbJpvFkgpjSczgrEhdpvG5qn+aZVoFyzbk4U1594YoYLCzIpsxIZSGJhcEa
+WLYQPVfnEZaxoq1lhcYmWBlhWddF2CiVNgUjXq//o16OP6+X5pIMtMWdoyhWxzU64BX7XAsL
+bYilSL4my6pNhHigOdqBZrwGCIdE8TYtSbqGRsWSGAoZybb8xPeigaltyJpVTSQ9mVU7QyXB
+/lmj5ing/8ZdWGBL0aiOaAN6hkUPawhbFyT5E7Wt9mjP6SfTUi94gwbV0TM/PiyaxgRjsf4n
+wNrj5hTyAO7HC+t8c9uTRTEef0dzQb5TVPg1CUuYF7MaBlMEZNFVCflzIIaNFtjZZw2/lO/u
+otH3mhzQVUa2eDj6vh+f5rDRlOP5qhzEvQpFOZopRHUh5FQt+Ris92Ye3PklPCs3qSVgq79/
+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
+ag08PC9TdWJ0eXBlL0ltYWdlL0xlbmd0aCA0MDQxL0ZpbHRlci9EQ1REZWNvZGUvQml0c1Bl
+ckNvbXBvbmVudCA4L0NvbG9yU3BhY2UgMzYgMCBSL1dpZHRoIDI1MC9IZWlnaHQgMTA4L1R5
+cGUvWE9iamVjdD4+c3RyZWFtDQr/2P/uAA5BZG9iZQBkgAAAAAH/2wCEAAwICAgJCAwJCQwR
+CwoLERUPDAwPFRgTExUTExgXEhQUFBQSFxcbHB4cGxckJCcnJCQ1MzMzNTs7Ozs7Ozs7OzsB
+DQsLDQ4NEA4OEBQODw4UFBARERAUHRQUFRQUHSUaFxcXFxolICMeHh4jICgoJSUoKDIyMDIy
+Ozs7Ozs7Ozs7O//AABEIAGwA+gMBIgACEQEDEQH/xAE/AAABBQEBAQEBAQAAAAAAAAADAAEC
+BAUGBwgJCgsBAAEFAQEBAQEBAAAAAAAAAAEAAgMEBQYHCAkKCxAAAQQBAwIEAgUHBggFAwwz
+AQACEQMEIRIxBUFRYRMicYEyBhSRobFCIyQVUsFiMzRygtFDByWSU/Dh8WNzNRaisoMmRJNU
+ZEXCo3Q2F9JV4mXys4TD03Xj80YnlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vY3R1dnd4eX
+p7fH1+f3EQACAgECBAQDBAUGBwcGBTUBAAIRAyExEgRBUWFxIhMFMoGRFKGxQiPBUtHwMyRi
+4XKCkkNTFWNzNPElBhaisoMHJjXC0kSTVKMXZEVVNnRl4vKzhMPTdePzRpSkhbSVxNTk9KW1
+xdXl9VZmdoaWprbG1ub2JzdHV2d3h5ent8f/2gAMAwEAAhEDEQA/APVUkkklKSSSSUpJJJJS
+kkkklKSSSSUpJJJJSk3Czut9dwui4vr5J3WO0ppb9J58vLxK896p9aup9UeRa/0ae1FZIbH8
+r975p8MZl4BZKYj4l9Fv670ih+yzKYX/ALrDvP8A0ZRKOqYd7d1biQO5BC8ppvIe0yB8l2PQ
+sjcA0nQp8sQA3WxyEno9OzqOC9+xt7A/91x2n/pQrK4rruLq4jhZ3S/rF1LpbwwPN2ODrTYS
+RH8l3LUPasXEp9yjRD6MkqfS+q4nVMYX4zuNH1n6TT4EK4oiK0LIDakkkklKSSSSUpJJJJSk
+kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpVepdQxumYN2dlO200N3O8T4NHmT
+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
+DTOoDH9GMeOKNdra2Xqj9WnrdzaWNgKbEza/2BraJto22U4u11nOWV6/fMxO3Y5pV2s3Yk+3
+j7Y/ZD/ioObAdKhzeOKo4ch2bHCccNJzSnA65vTC2cSZ79zmPOdi47Le5bwr4urhWuja7ybj
+FuJW6fbYXd09zr3ZfcbDwmOdx3lPtKe3527PYS9lL5ZXo9fMCqsV61f0eJO8g7wrvZ/46Pvw
+fbp8Yd8Vvnt8H67UWslb2eEH/Lz89vg98tfxT/P/PgAT4B9QFfA00DQwN7A3iBIUFdQU9CbY
+Obgk+EGIbogwpDtUMjQytDF0Lsw1rDRsZJXxqvWrrocrhHPDOyOwEaERDRGzq91W7109HmkR
+WRA5tEZnTdaaq2sV1iatPRMlGcWMOhmNjg6Lbor+wPRj1jFnY7xiqmNmWC6sfaznbEd2GXuK
+Y8cp5UzE2sWWxk7G2cXtiZuKd4gvj5/munAruS8TPBNqEuYS/RKPJC4khSW1JuOSo5NP8WR4
+ibyeFJWUrJSBVIPUgtSRNJu0vWkzfG9+QzqUvia9U0AV/Uz1CXWFW4WjGfYZVRlvM0MzT2ZJ
+Z/Gy+rL1s3dkT+S453y9DrWOta47Vy13c+7oeqf1tRugDTEbujdqbMzfOL7JY9PRzYTNiZt/
+yDPJK817vSVsS1e+cv6m/LGtHlubCyQK+AXD22y31WxHbedu799hvmP/jk+F7MJrRSZF5UUf
+ilnF174y/ariq4WdsTv7SyxLDu7C7OLtGtrtsPtoqXRpTunYHt897WX0ssKy13uj9l4tX1Ze
+s4+wT7hvpMKnonO/5v5d+z9UxlfeqXKuaq1Wqt5RPXeAfWDwoOPBlhrlmqKa94e4h+7WetS2
+12nXlR/GHM44/LQ+tL73a8bXjQ0KDUUNH4/wjowcDTza02jV2Nik1FTSDDcLm6eORR67+Y3r
+N50thi21rbTWouPguPD4s2+jvx064X2i+yTjZMt3Wt9Vt1HaCtuh9uz2mY74jpHO8M6BUytO
+dXfZdrV9b/T9kdNqp6vOyJ4pOUs4m3924VzOudnzqeenL8RdGOuO6n5wcdXF2z0BPf2XvC9d
+uex++WKvU++5K3ZXTl+1uXrqGuNax3XL6+19Fn1tP1j80NZv2d9+w+pG503rm10DywfODjoM
+Xrjleuvyba/b1++svDMwFDJ0dzhyeOQu++7kvaR7L+9n3J9/sOkh+mHhI6lH5Y+VHtf9qPdj
+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
+q3Nl8z9moRkGoBv80IbfxD7EMhxGaMZve06vhC78Fu+CvoiVDLXI9SDNey/KO3QLGSWd6J+P
+lE2Xe//FkQqmMpPxe70LZVunbHpRthzxZLwiKMVWCHkRqliXVqNHJ+Im9NmIOfTpXk04Xi9C
+D/Rj34pWDfo/RqugXv+HbgA2Q4sebSXG59YbMW4n5tfzT2z/Fe3k7hzFWKK+GymYcP5WpC6J
+8ZN/6XDpIPysNuoXd8RXfCLNk3Txj5e9UM7xcP3vzmraRKX0vhSj/9sd2fn/I8AAvWt+bgoN
+CmVuZHN0cmVhbQ1lbmRvYmoNNTkgMCBvYmoNPDwvU3RlbVYgMC9Gb250TmFtZS9BTkRQT0wr
+U3ltYm9sTVQvRm9udFN0cmV0Y2gvTm9ybWFsL0ZvbnRGaWxlMiA1OCAwIFIvRm9udFdlaWdo
+dCA0MDAvRmxhZ3MgNC9EZXNjZW50IC0yMTkvRm9udEJCb3hbMCAtMjIwIDExMTMgMTAwNV0v
+QXNjZW50IDEwMDUvRm9udEZhbWlseShTeW1ib2wpL0NhcEhlaWdodCAwL1R5cGUvRm9udERl
+c2NyaXB0b3IvSXRhbGljQW5nbGUgMD4+DWVuZG9iag02MCAwIG9iag08PC9TdWJ0eXBlL0NJ
+REZvbnRUeXBlMi9Gb250RGVzY3JpcHRvciA1OSAwIFIvQmFzZUZvbnQvQU5EUE9MK1N5bWJv
+bE1UL1dbMTIwWzQ2MF1dL0NJRFRvR0lETWFwL0lkZW50aXR5L0NJRFN5c3RlbUluZm88PC9T
+dXBwbGVtZW50IDAvT3JkZXJpbmcoSWRlbnRpdHkpL1JlZ2lzdHJ5KEFkb2JlKT4+L0RXIDEw
+MDAvVHlwZS9Gb250Pj4NZW5kb2JqDTYxIDAgb2JqDTw8L0xlbmd0aCAyNDk0L0ZpbHRlci9G
+bGF0ZURlY29kZS9MZW5ndGgxIDU3OTY+PnN0cmVhbQ0KaN7sWH9sVdUd/5z74/VRFF8pIlih
+t3vqVAp9ihLZcLRa/MHPB7jZItZ27esr2PZd2legU6GsFrTll2MqNmzrKv6ajN2ZjtTokMxk
+yTJJSuayZdkCiSFTs7hmTiVTevc533fbVXiGP5Ys2+K97/vjfO73fM/3nPM995z7oABcjA6Y
+iK9YXXJD/c773yTyR9I3aptqXCyxy4DJZwC1oHZj2klvbwhRv5HUUO8mm6J3vVIMGAcAe2Ky
+sb3+upH8k0DkCtaPNyRq6t56vWknMLWR5XkNBPJWhv8B5LzA8pUNTenNz+6873WW2aYdaUzV
+1kyPT4+zPu2N7qaaze7FW+w/sP5S2jvNNU2JWUd3bAam3M32P3JTrWnGzWvKjfq525JwVx84
+0A5cxPjNW6DMX6u9sDHJzrWOa7uMNOei3pgctoyJtmUYhm1YfJSDcVfZ7XeUoRTOJ0YIIyV8
+eNTQ8L7M0zDOwPcBPotZMfPU2Q7fyRmyvBEYbijiD48MjcSNvhHHjOAEfo8jyMMzqg97eXs4
+jC5swLcMx+pDrxrGLzAPT+MUDqs4XPxYRVQ1WjCEe7EOx42IXW25OKtyTcc8Zp7Cs4gbMXyo
+5qgZVgQfqyFlK6hTRinb6kPykmFVqjrQiWo8j34TyjFO4WVjCL14DG+rGN7Hu3gKj6BPHWM0
+vdiPAXyTfUsyAx6UyFYrB8N41YirPo7dW4zkt0ipr+MJVaZiykUM1+HbSOMYmrEcK1CPB9CO
+NSquXIsjA8+E4WE34rgFa/FTfA91lPk4zuHaTG9rOQZDaGBbm9iijuFV6ft2YlvtPmzBQ9jD
+2c1TXqmPaBRTM4N+JynK31TehKO6KFyuQIkGUFRMpTRqmXlyNe//HVF6ZzY4OtqxTJ+i469z
+i4Kwoodiz7iKv7vqvNKVFZEFBUVFlbM9VbxkEBW1nrOywuusqVtSO2hhZcUrrNDpvgLlP+x6
+nYWVBdrUGGfa/xnTfjGtcr3+wNQsXuKtylg6Mz1nBiHrX7XdTNN2sa67Qerucb0NTqGnZs32
+QgL3Clzver0BnFP82aACOJzdekJ2ODc7PFHgpMBPu14ygC/SsAkNn4U7aCLALxbzE2Je4non
+AniSwPsFbnC9/QF8SfbAI9nhvOyDMlngtQIfdL21AZwvcJfAD7peF2GD8BSBDwu8yvUOB/Cl
+xZ+drACemt36svPHSsPTssPTs8OXZxlCjReI+RExX+x6RwL4CoEHBF7qegMBPCN74DOzw4UC
+vyPwNNd7J4Cd84dQw0XFi+skUTHTg07ULxU73U43QSzyOpiv1Ssruj3ke4gujM51Inmeymf+
+6gSOjmU5a0SIe2rKYseTRWGcQXkBRRjllXXdi7TLGrYTryii33GlgmhRpSavtMczFum6icqo
+093wlZKCjMNoxOn+NK9yNl+IehcaYR9yb/Xb/NbcAo2Mv1S5OQK9T8J4I6Br8brdhedIX82Z
+jFhoOTrVDlQbW9Fhd6lrrEPU38Bfjcu0vQrZJzCftvNIw6R9pM2khaQe0qMk1kOXlrouKUlq
+sx/kzroLD9ursNbm7m+xbNXR7nGs4WFhr/oNy11YYDdhn7WJ/RjE3lA561Thbnsx2ziNpK1P
+EGHcZfVTniZd5Q+HP6Wc7//NnuQP29MZ43z/KeNhaTupt2xjAH3WHiSs/eixqkQm2M56Yz0i
+1pNosA5itxpEjzrkf2SepjyCnpw12K5x1ltPm+1WL9abj2GTtZRj8b7/AXGYff5wKIyw2e+f
+MbeSGJMxBcd0u+z7m6T1pLjGKF8yt6HP5BjxXKHHpNqMI05apuPjHHRQr+bzvVYILeE17MtJ
+/zVtZ/8KRbr/1iBezGlj7Dom3bc9WCixHUKC8cPa5L/H2MPhk7gn5zE0sM2DnOu9pD6znXSa
++/mf2daTpDaW382QJWcVZsYB1BonUcs5n0CKWNfiAPFPcm/FHKMHLYwvQp8F5t9xk3UaE+0B
+zJD53eEPcx6nBvOc5POYNRn5VgHymTfDGVKQ+c9GzAfJhXGkcyFD/lbS0bE8OJdOB3kwSswB
+metsVJWZ9/Gkxy1DfhtpYGzOzyeMJ5lvko5f+z5P6j5VjZOj+a7b/Ryp14HOx1HJfv+SMb0m
+4zDof6ylXhs6R/X64FzPD2RKj4+O/Vypx0jHPya5fnQeBzI+VtZrirl9rtTrTPI9WG+6758r
+g/Wn18F5MvBn/A51fK9s0O8R/U7RuZvzFwxxvaYM/Z7RdC0GmH/TQrdwfXItyPuH7x4p75F3
+TGn4TqRJdaR7+TzNMUvIeuF4GFzLFvwPmM/NHLMtzOmUzmudw8znrbpt3e5ojpb5PH92wuLp
+R/OfoJ/8sPBDgrwk/EeCvCj8BeHPC39Onj4r+kHRnxHeL/yHPDlbPHNr/gPh3+dp2uJ5V/MD
+/CyxeLZdS75f+FM8W1t4Urw9Ify74mef8O8If5w1LOyRurv53WBhl/CdwnuklW7x/6jwHYJs
+F71L9EdE7xR9m+gdwh8Svlla2SStbBSeFs+twjfQh8VvEF03JfZNEnOj4A+Ivo7jZ/FrQdet
+F8uEWNaJh1p+71ioEZtqsblfeJX09z7h9wpfI5FUin6P6KtFXyU8LsgK8b9c/C8TP0vZsoXF
+0tYd0srtwsuF3yq8THip5mUV/AbRtguk9nx5crPweYLfJPxG4XOF3yA9uF54TJDZol8n+jWi
+Xy36VaJfKZ6j4rNIuCNIoegzhV8hyOWiTxf9MvFwqXiIjr+XeNdnzs1q16DyuyoHt/qFRZlr
+1n/4koOEPk+YL1v634EcfLk0L2TYvqlMFilh+Sgp/FPhW4XHr0f+wrmx/JLC4yXHY3PzivJU
+UV7RUrP+bK+qH+m1Oj7pUDA66PGaL+4v7v+CO5PdmRP0FKYzNXU5KYQLXib+zy/9DtPckvFx
+9D9dmvtvj31xXHgIcrFlzPprQKCbiLCkglYifLdn9BD1Kj0L1gSWHkJzoCtG8l6gG5ikcgOd
+H5JqWqAzWnVzoIeoV9yWcttb1iUb0s4NsVjMKUvW1zjLUs2pdLubcG5Ltbiplpr0ulTzHKes
+sdFZpS1bnVWJ1kTLxkTdnLLl5fHlK2YtamtJtabXNSYuVMZt3CtdtKOFe2MSDdxRHe4iMbkd
+7kZJ7pM11JbRrpmUpq3LXdORmi3UNa8hvk4s5kitRt4Od8NRn61SSlAmaL2RvI6WZRzBcu6W
++n+4WViENj5L0Ub7aqSNrpEk2kj/LRe0/nefyyyrcvYoh7t8mDOm19WVwEWwJ4quMjY/v2/x
+tvsvWfAhJoZl+n820q33BhyZvL/Dbzs7lFuQc5TFCaMZ9E8BBgBHIXcSCg0KZW5kc3RyZWFt
+DWVuZG9iag0xIDAgb2JqDTw8L0Nyb3BCb3hbMCAwIDU5NSA4NDJdL1BhcmVudCAyNyAwIFIv
+Q29udGVudHMgMyAwIFIvUm90YXRlIDAvTWVkaWFCb3hbMCAwIDU5NSA4NDJdL1Jlc291cmNl
+cyAyIDAgUi9UeXBlL1BhZ2U+Pg1lbmRvYmoNMiAwIG9iag08PC9YT2JqZWN0PDwvSW0xIDU1
+IDAgUj4+L0NvbG9yU3BhY2U8PC9DczYgMzYgMCBSPj4vRm9udDw8L1RUMiAzNCAwIFIvVFQ0
+IDM1IDAgUi9UVDggNDIgMCBSL1RUOSA0NiAwIFIvVFQxMSA0NyAwIFIvVFQxMyAxNyAwIFIv
+VFQxNSAyMSAwIFIvVFQxNyAxOSAwIFIvVFQxOSAxNiAwIFI+Pi9Qcm9jU2V0Wy9QREYvVGV4
+dC9JbWFnZUNdL0V4dEdTdGF0ZTw8L0dTMSAzOSAwIFI+Pj4+DWVuZG9iag0zIDAgb2JqDTw8
+L0xlbmd0aCA0MDMyL0ZpbHRlci9GbGF0ZURlY29kZT4+c3RyZWFtDQpo3rRaS3PjxhG+61fM
+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
+tCbJMjdi2PgURIdXui/JlbAGCZViD5ngN6e3gi7is/zsb3AlspVxc18L8OqfZALAYodFqe78
+vV/V9vTOtxTn1HFGIk5d+lPeZHZbdqrr737wc21MvM26HdWFd44CtCSUlKEo04X2x4K7/3HZ
+bOSDhF5e/6q5fAbQ0ItKfs/K+fpAEkDwo+aPpOszmfGHthE5J2w+/Ein7biS6Xu/1i95L6+M
+t6EEYCbZxRCiVmH+XkJqd+C2XHBbBbsty27rCQcRXslnWbVrx5FoanmwkfSFq2SZWolj/eib
+bcFFaZG3jUS2RaTCPBdYcq+dbWVuwcEf+TYZ+wF55Z/yC/k18v3BAs/gD3x101MeOOcvHgCm
+c/mM4JKd9YVcqFfCkLyRFkaE1GLP4yEPxBVlmXKTc01xtmMh7ntgevT1xPn3TUzszRBKQ0Sj
+bxFKy3mjS6ujQvni+uS/AgwAOAvxDQoNCmVuZHN0cmVhbQ1lbmRvYmoNNCAwIG9iag08PC9T
+dGVtViA4NS44NjMvRm9udE5hbWUvQXJpYWwtSXRhbGljTVQvRm9udFN0cmV0Y2gvTm9ybWFs
+L0ZvbnRXZWlnaHQgNDAwL0ZsYWdzIDk2L0Rlc2NlbnQgLTIxMS9Gb250QkJveFstNTE3IC0z
+MjUgMTA4MiA5OThdL0FzY2VudCA5MDUvRm9udEZhbWlseShBcmlhbCkvQ2FwSGVpZ2h0IDcx
+OC9YSGVpZ2h0IDUxNS9UeXBlL0ZvbnREZXNjcmlwdG9yL0l0YWxpY0FuZ2xlIC0xNT4+DWVu
+ZG9iag01IDAgb2JqDTw8L1N0ZW1WIDEzNS44NC9Gb250TmFtZS9BcmlhbC1Cb2xkSXRhbGlj
+TVQvRm9udFN0cmV0Y2gvTm9ybWFsL0ZvbnRXZWlnaHQgNzAwL0ZsYWdzIDk2L0Rlc2NlbnQg
+LTIxMS9Gb250QkJveFstNTYwIC0zNzYgMTE1NyAxMDAwXS9Bc2NlbnQgOTA1L0ZvbnRGYW1p
+bHkoQXJpYWwpL0NhcEhlaWdodCA3MTgvWEhlaWdodCA1MTUvVHlwZS9Gb250RGVzY3JpcHRv
+ci9JdGFsaWNBbmdsZSAtMTU+Pg1lbmRvYmoNNiAwIG9iag08PC9Dcm9wQm94WzAgMCA1OTUg
+ODQyXS9QYXJlbnQgMjcgMCBSL0NvbnRlbnRzIDggMCBSL1JvdGF0ZSAwL01lZGlhQm94WzAg
+MCA1OTUgODQyXS9SZXNvdXJjZXMgNyAwIFIvVHlwZS9QYWdlPj4NZW5kb2JqDTcgMCBvYmoN
+PDwvWE9iamVjdDw8L0ltMSA1NSAwIFI+Pi9Db2xvclNwYWNlPDwvQ3M2IDM2IDAgUj4+L0Zv
+bnQ8PC9UVDIgMzQgMCBSL1RUNCAzNSAwIFIvVFQ2IDQxIDAgUi9UVDggNDIgMCBSL1RUOSA0
+NiAwIFIvVFQxMSA0NyAwIFIvVFQyMSAyNCAwIFIvVFQyMyAyMyAwIFI+Pi9Qcm9jU2V0Wy9Q
+REYvVGV4dC9JbWFnZUNdL0V4dEdTdGF0ZTw8L0dTMSAzOSAwIFI+Pj4+DWVuZG9iag04IDAg
+b2JqDTw8L0xlbmd0aCA0Mjc3L0ZpbHRlci9GbGF0ZURlY29kZT4+c3RyZWFtDQpo3qxazW7c
+SJK+6yl4GYBcWGxm8r97sIBsC4YGdqvHqu4FpnsOKRYl02AVq8mi1upH27eZow8+LHzb034R
+kclisWQPdj2woWKRzMj4jy8i67tXN8q7H86er86+W620p7zV3ZnSXoR/+CjSMCq8vEzCREex
+t9qcffdiyLxq4Bcib6i2Z5G3qujPf575XrB6f6aiMLIE+MrSyIowSYRGqD36n0VxqZnEeRhF
+KiE6uIhKovWrf/lLcJ6E2r9+HeSh8n9+cXX9o/fy0nt9feMFmf/j5atr3LoJ/r76y9nl6sxt
+k4V55qk8CTN80P59fXZH8i350mkZ5skRY0tRzlUeJrFS3rkKdVRm3uol8xpn9CJdacusDs5T
+8PpfxHLuezf0Nfcvg/MYrL+5vFm9pTuFu+MF55mvI1kU5QsZUjCfgMs81PpEhrJwMuBKlTqM
+sSALY+1E+JJdQP93mBayJ6KGVIUQJC6ysNBenkQhDAsDX22U97I7+yu97TXeWRplIdQUFyFM
+lOJSwRsyYuk/vC0zNbmLfZVIRcLOtPVfrYsl1sWedpI4CtPiIEiYRgpaJ2mE0Fw6solK2Sbu
+IW6l5D7uDvYrZT95plJ69ucoyot/l8ewLT+HRLiMjpY6VsM4TmN5xo6qxFGTJBfbv6nfd70Z
+vG5X96Zquq0hu8Z+Ww/PvKrbevWwq6vGtN7H7Z1hW8MKWYb1E1EIb4kmQnRoBq/eei3obsf6
+wQS5jxubXV8PuNVs9/V9b9ZmeBacF9jLY7LnRBchMNcNs6yZuo6jVKh3fVNv97TeA1tm3OBb
+561rb9d367HaNw/N2qyFqFZhUqQzViVQtS6t/I+eAZ/eYPbBeR5mfhPAf/3hzlRV83kLqq1X
+wd/DxG9p1zr0LocgxSt7I5+OedloEWuW9wQ+yrttrLYpguqBdtT+/h9b79YMLA+Utu7s4/f1
+4N05IXQWpycKTwqVCd1xuzakBgOzeb1EZh1oBGvV3TdEsqbYLf1tcK4pxmGWYd93SE7xTALe
+ZaF+LSJERV7IXtAyrLcx3n3b3RqrG+xV+GSDS0oimf+BttN+Vbf1lu6AEdpZ+41h6a6du8lD
+R8a7EJ38cvGjMPq3i++FEhkJazbGrnBk9/Q4gbAkVWNv2o8uOMffByGALfAeGVUeitTRicVK
+Flfp0voybRSTcGDgHkqTHNgQe6X/WVKlewXytxxL4kuTiPSwDhSC4DefXL70YXuFj9p7J0+n
+yKIUcLCzY6awzGy9ZrNrDXl/5zlDDBKjn+6aCoYGD1M4EbGFOaPMxeqRS1Ko78n3E387Gu/3
+sQZR8sy12WIrcvXEH0noFFLc9WMQ42rv3DNO8vgr+QBsPXogUfpEeNcNDWeaLS+nHBqnVmpa
+HdvVcSyrEaEvrgKUH3gH+etIukMAdpsOLFOyeqgD9hERPAY/RayXltWWblbasleBgDdKnd7K
+BzlJ6rtU5bWf1jAXTHdO4iOuyMlq++7kDakPp/otoEsE06P9bDnTyasPcq8OMvDdD9btKUQp
+10jekjscJbHv6AYUA3a18Ia3DcwlVuspbPIjV55HrjU1NCkCw4Mr0xK1jEknPuXJR7lBsAQv
+1HfESOw3FTkqWBBxU+EM6zhU4et11dknnzdNZcJ5VB1KF1jKC7jBobgdKvs3ljItqRyVzHry
+T6JCinrUr0/QYUkMV4ZighM8yTmKfBSanN+hynXTkVCaopK0cjBILGInvl3cPFAq/SA5pxns
+XZgxFQ8iy9HryMK/WwK1ZxUFntr6QZaSLaFy+woeIwhiyYLZl8xpK3ekc+e+KEdblgKms6mn
+2T7U7GD1ENpwgAXKLJlTW4Kr0ySYy14qtQH8wtzW0NWwN5XpOTug8jb3I/5yqmAWNJLLM77m
+rAA/znN9mhVUYus4IGTGCNJ7Z2i9pCBoQlEOQtaBO+7roKDva5LUcL1v/yCIMlUtu81SWdY5
+Cld5qZAjqCvKzPBuxgsbs6/7xlAANkij9AjGf4QIdT+hBxXPZYgt2VwJ2ftPNlm23qt+3HWU
+qTipQesT8JgvdCAGyWw8ymBcFt8ZFtclMlSaDLZYWkc8QSudTJ4w1Pcj6ry3afbNPUwEK6A2
+bClZQMmUqTmvMHzZmwkbqRL9xgEcxo6whRXwr3WQ+k73FXs8ZQUzlRmC8kmkZkRSR6RwWWdY
+atrJB4AC433B0YvIckGFiELyoavADNejccseszGPXU9mHSgKdnRt+r1zvzJO1IlwIGvTf83l
+GvFcCbKzmRVk+xowsukRuAPdfjy4GpNc1hXb+6nI+kTbVTaS2+YPRLhviEebYtZkCOWyUOUg
+UEwpo7aXYOTTINpN0CgVMyFsDihypxoS4ta874TZ0HshCeYqcB0cPJo8TcihjqTlvB1wfWtp
+ed90AVUUYGikTArsaoRuoBY41Ci9wQHyFlL3nzSfilyY1x8YBe5R+KVcdQEczycM8HkrOn9n
+qtrJW5BCDwGXOmpCrAf2YFqG8EmNRo6h/y1Bl9RfT2LmWZSe2B5UrE9ysAH1j4Snut55NTMJ
+bxKHn6RMM13OrR5yOAs49D4O+45c51NA1YZxHRuTGgvQrz8AtTZCsCbzJoIWgR/qVrgtwzLV
+M091iDuKradS5jV937WtrHTNzqN8rSsLggXvDhMMnmPj3iHtI9BNmBuVgt5zMOLc8fOVgnGY
+tqz+7Qs1RNlsH6XWDZ5fXb+4lhh4ExB+e/4zaT3xb1ZXz4mhwn99eeN959GLF2/d07cXP64u
+F3OSBD06mn+tUXz11+ckcVSEORZo4MmnxyQHgMG1ROXJaXOOd4pZKz6Pfmko+cqG0IXrQCmi
+0WQF1CGY/cf7BqFFfZAioDnYojny3wE27Dhrt/ySkS5jy7D7D4HdZkNYLGUwQu90E9bKZryp
+PM6/YLJkLkKapwt/U2lsE+5L22IF0trMXKnvJqzhWfQruBjR5LztvuHqcD89pzB/yiVRoFqX
+q1WpbCECH5KVIuf8Ae7gdTRQKWfHFhcZgyiwTIFU8RuHG8sV20AlJWnQLSAZllQfcBHNiLhd
+Ov6eQkp8ImgXNKcb7n30SsKNe+C42/MGekmQGMmFkWQ+DLE6Wbpb6lCgxTXPJfN1aGZux2Hf
+3Lb8vWYYOjwDHqG2KXPdW+LaJnrpQZo8WGua65TJKR6w2c63OYgLMBX1AQDQVk5z8PnvZfjo
+iH09i5RPRNW3TrikpKk8srn+akvdJrnkjEupO/BiO4xyzYALKZvekGGiIi5OAKDKcpvWqrEF
+0c7j0ITe+/uPe/ROuUvTjmDhptNhprJiwoVq5ul/MTSRQfb1d5yZ3wUZTwbO80NyjpFMqId/
+ckbmvxj7Cjj2SD/I7OjAZEO2gB/aF2zaQCp1+jtkd+VS4qHEW/PAfxe2SSeIcmqbBcC0fUXm
+WvuXY89FF/C5fl/3lZvBUb9LRqMpM0EG9AhAI2gT+ppVawhZ2eKp4C6yxa++7RoIZdaw704g
+fcv0aGrizKzJlPPm+dwRmin2MC6UUCCG35mQwqWcApWUFTtN04x2AV144l7MDUwSkoE1iHnW
+YpaSVVsRRrmajYGmWhqnDr5kBD2e92ZoWiCNVyPw9ca05sCTMyBBPjcMOY3Db7ClnU2lmSvw
+l1vYaLdv6s1tz9hajglgOoJCwJAPH4ep8Tj4HLVmBJSGrmpqmkfcNW3DQFP5lMvsecNzhi0F
+AqLrZUJ9GFsysTk+S7UrZSv413DX9RuDYCp5/PfMuwkvwmeHlk0cqWDMsujXUu16LM6jP6+4
+mF8Hsf/menX1yyUZ4h3hvKHqG4BsQizSnIhTCdFlsC47EbPZQWTp5M+5vFZm1+zR7MLID02/
+H6kLY5XyjGbyfJ1Onl9RLy4xgnbwoe731A5i/b7Zjy06EGqAD65OK5elRQwa6czqLlV/shNN
+O/Jh0Mwti/QdNDd3VnNKjHWcnPYX2vXLMOOhUtWu5Z41k8fp1nm+dun21UhTHcJT7O9kS7oR
++2TRCbAn0elEwLZpKbfPjN3tkI+kaj8JLlnX/aELa908pgem+ezuVjwNnM17eATUdwYZp3GN
+n31o5sR4o8Z+f5hwUOq7MRIad/iAQGS37JGkS740rHYjTdcduT5BBoYtTw87OcOw88XWTRbt
+UJGeynTzJJ0pvRzrut30LJ3t3hlktJRAGIXGKFP+J5JaHhZloWd1SDLQ/6kY6RPLflM1Etyb
+KXcWhAy2BlaYEpiWGqH9fIosF3pshYMsIFJYD90ONNLx9yP9XQesY8oIFCk0S6FgQYS+H1GO
+oLliVoCY6NLEUjJV7LTOEw4+ywGrO7Oe+xVyR9PbdrBEWqnl3NY+s7fhc4DAyBYU3zQzGUZ5
+zo3IlIWlV22kNWxl7Fv6Le/2QtLzFZpdGjLQtXcxHu3ScVOwqR0v+IrVz3jSqf/JiDN24w1K
+1DAEjAI5abS4h2E6eJ0tJChuWarzZVH61b9rtnR+ab73fvOb3wLBBHQ4CBvY8VymouVg5Vdf
+0MFQb5qWEO6jd9t3wLfBYdyYPnlIprKDR1Mys47rIinM4/k4wp7BqMyG7XsbSIhSCpwfTuDA
+8RBS25lIlrr5AJ0qcVQ3cgyRcr7perGZHeHbIXbuG3cIltDRSmvPG8090tcot1v7ZtdTiuai
+5oZaOQ0MeKzItI2cibTmGExFoUrik8GlFvvGKtVuNCR97o5P9WT8rnzhjqvCP/oaZlhTmaBj
+GIoWOv6ix/vDqQhhRT6J4/PNxP/B/k5B1AKCTi8WS9hcTOl/SWXaeaj7B7u6auSiky0OR2zR
+F85KY+3g4rzdrdypZNvR1Jg4sAMcDzBumL96cmRqH36c00FQ/GDXBwdSIrPm853CnX2K9HKI
+KgeIR934ydHonQTtGNAZpX1plGcyIYUGxqOjVnTNanF08bWuVc4wSZE1Y6YPNDZD0uyNi9Bi
+MRSLckfCBg2HKhaT+qq62ddH7Vs8IekkL5+Yd8YMApaRd1wvcjm6+n9ULHf4Rb8IiYujM9hv
+7W6PW/Kv97bHozr65Ysq9QHi5q4/cQdoKB3dfcMN1toIUSiWv8MtabJITvtQ39dyE35Dc5LF
+83HgnzyZNR9sdEscoKOwyIr4RK3fL9SaJKX6EhCIYzl0+Be1pda3VOTOxAEE3o+tKHbWwXAL
+wW2MtCy2XjpMgDYrPj27j9wh+KG5aT3qZlB5D92JNCYTEmBSTx/nAgkoVx0l9i7sp2tp5FR2
+Jyc+HZ0IpCjVVKQv+eAMbcz1G1lyTWZbSXK44hL9i7wjfY09C+745BlcynmGWJ46grXbA85m
+1r/bnRsZ7csXRp+p9PVKDu7/9PWfXsRuuM641TZC5Fika1zaznLWfAh1CwnysNTF6blPPCWO
+t3XVVC1NCmyz9bYemvWIMvgK/XQH2ADhb8LXU0PhSC5r/nQgW9i6LzhFflAkscRhxL8rRDaO
+3BjGZazB41jiH+2MAzgaFrkF+ObgqU8N4SdknMu5yb8IGbtTl+mnEj/Rz4WMHVlvTF+9Axzj
+SmD7esGRsMh0pFHMMo0jV7hfXjQyLAu456KyzqHBN1v5MC1/2PllLgVIyfxS1u3tK4Qpfenp
+GaepLD8+zChOfwqy/GWENLPoTHfmv8VvUaERpMa69F5+pdN5Nz9Z4HS1Xf+PPBvsw55OeCTa
+JGA2H3ubnEFp3QiUIqmpN/NeU+wUjvLa/YDimS3B1Wh/l0HFufCXs/44e7qdcr9Y/F8BBgDU
+a4n0Cg0KZW5kc3RyZWFtDWVuZG9iag05IDAgb2JqDTw8L1N0ZW1WIDQyL0ZvbnROYW1lL0Nv
+dXJpZXJOZXdQU01UL0ZvbnRTdHJldGNoL05vcm1hbC9Gb250V2VpZ2h0IDQwMC9GbGFncyAz
+NC9EZXNjZW50IC0zMDAvRm9udEJCb3hbLTIxIC02ODAgNjM4IDEwMjFdL0FzY2VudCA4MzIv
+Rm9udEZhbWlseShDb3VyaWVyIE5ldykvQ2FwSGVpZ2h0IDU3OC9YSGVpZ2h0IC01NzgvVHlw
+ZS9Gb250RGVzY3JpcHRvci9JdGFsaWNBbmdsZSAwPj4NZW5kb2JqDTEwIDAgb2JqDTw8L0Ny
+b3BCb3hbMCAwIDU5NSA4NDJdL1BhcmVudCAyNyAwIFIvQ29udGVudHMgMTIgMCBSL1JvdGF0
+ZSAwL01lZGlhQm94WzAgMCA1OTUgODQyXS9SZXNvdXJjZXMgMTEgMCBSL1R5cGUvUGFnZT4+
+DWVuZG9iag0xMSAwIG9iag08PC9YT2JqZWN0PDwvSW0xIDU1IDAgUj4+L0NvbG9yU3BhY2U8
+PC9DczYgMzYgMCBSPj4vRm9udDw8L1RUMiAzNCAwIFIvVFQ0IDM1IDAgUi9UVDYgNDEgMCBS
+L1RUOCA0MiAwIFIvVFQ5IDQ2IDAgUi9UVDExIDQ3IDAgUi9UVDE1IDIxIDAgUi9UVDIzIDIz
+IDAgUj4+L1Byb2NTZXRbL1BERi9UZXh0L0ltYWdlQ10vRXh0R1N0YXRlPDwvR1MxIDM5IDAg
+Uj4+Pj4NZW5kb2JqDTEyIDAgb2JqDTw8L0xlbmd0aCA0MDM2L0ZpbHRlci9GbGF0ZURlY29k
+ZT4+c3RyZWFtDQpo3qxazW7cRrbe6ylqSc5VM2QVWSSBwQCRJQQOnHgyUuYu7FlQbEqhwSY7
+ZLcy9qPN28wyC6/8Avc751Q12d1yosVFAjd/Ds//f+mb724T9ThdXN1dfHN3p1Wi7h4uEq1i
+/IefIoviQuVlGqU6Nupuc/HNq8mqemKAWE11fxGru5r++e0iUOHdh4skjmKHgK8cDltEaSo4
+Iq3ofxubUjOKVRTHSUp4cBGXhOtdcPPPcJVGOnj7JsyjJPj51eu3P6rrG/Xm7a0KbfDjzXdv
+8eg2/Nfd9xc3dxeejI1yq5I8jSx+iP7YXDyQfKd86ayM8vSIsVNRVkkepSZJ1CqJdFxadXfN
+vBpLgHSlHbM6XGXg9T/Ech6oW7rNg5twZcD6Dze3d/+gJ4V/osKVDXQsH8X5iQwZmE/BZR5p
+fSZDWXgZcJWUOjL4wEZGexG+Zhfg/xWmheypqCFLIghiChsVWuVpHMGwMPDrTaKuh4ufCFq1
+6iKLbQQ1mSKCiTJcJvAGSyz9r+qZqYO7OFBCFQs7B9I/ORdLnYs97yQmjrJiFiTK4gRaJ2kE
+ERBYQTDLaaKs1AWZKMlNTiYS2JitlmR2frSgH+UldEwQWZ55u8LS7IPaFmLWqt61T+26Wqtm
+ClfkhqqrIHo9PMKCsGcbmqgM1tWlYhsmOrJak4WA8V0AwP22Gau6/dKrj/RdW3fVelDrRsBN
+VCRpKuDLINB5Igyoqm7aXbgqIhs0YRJlwaT2E1BMqunBC3mQDYT4SkP7Jj/z1ti6yNJGkH4a
++gosUBTdVoP6e7XvQtg0GNT74GoM86ACJR1MLT+Vd+/DEGhtEDGp2Q4QYZb41OUAVgrYKimj
+GB6yMMlf4zgv/iZQUDyDwbFwGT9vMWMyM6sqFlVpTTbnfPEB2q6JZxt8gQB50JOQ23H42NQ7
+KGxbjZWqh35qHvcCNqrHZtq1UMeo9tCJl83lQY3MUGQzSVM4kqmL+roiL8iCrfut4SpytVZb
+Ce6RAj4PhrXc7smhCMRCySsAHmg6MVeO6IkNvWfG2nlm20+7Cr7EhszjmDSiNsiUWWCAGI4K
+/2g6tRvbpm8HpeO4WOkY0XZiQJ0hrsv8Tw0I5yphnf9HC8IdWCZTOHVeN9O2a2EduCa0hbhq
+JNzW7K3HxkGomTLTC4dw6NLECrqnpt+FyIxBNV2qjq+GkIzx+BlGryv1MUwDtWb3bkO8naCs
+e3IhAv3Sn1gGtUBnycIdfFyZwsXVpdpV/W6guOoR83CrDv62GXx4lkjrNl9qkL1KH5ROZiXJ
+k2BHhSRFyK/AyugeMk53SdGI2Dy1pl0kFDbmqREokyRxsfSvA0jhU+tZ4oyX8CR6zqKnNnOm
+e9U+jCElxIpL2zrMwHcTkh/2zSOp3SI65HdCcOJ5LXf9JL8dxU7qvhQs1YewwM0enj6/YYGR
+6KQM8oXRBmZXNoaH+RYD7pDOzvw++AsS2DPNiTEpNQFZCd7dp2zaTOTLjc/DcMBMXxqy7abt
+OthBJKSyg5ws2bTZjyHl4yHUMM5EMlyKIb0LpFGZ2KM06Ax/c/X67vpblVxKCKvniIAC6DR7
+fjoO8Gr6SsWXycxWM4MB4jS7GA1pdXbmHyv/4swtnnEGVPOIXCXh8ksdRa5VWoBv6BMSZmgB
+UMelafGv0aJkSlPXokxCtV7eUoPxq0rEIrAGKpygKtCL8NPNRYIag54uVp2/XAmKjrjzlw+H
+FgMxysIWJJIY212aLEZ/kmlqZU7bpTmFvOPOjJwZndkqRTOAVHR4ZL1KDxlPZ6ZUK6QjbX18
+WE4NxpHhBlFzeCD9lsCWFXxXKsu/NowDeZHgKudnGa7EfFFmpb/J8zg/Tp5EoXAummnqUIog
+MvKbuHs0w8cv8sy9cNgzBDFjz0/Zt6V17CfCnkmYN6PcvRU5Utf9RCkYW+J6F4iAOQnjvolT
+J7sLiSIqrGUOsrzwHCSZr3dOOo5guDYQXFNJLbhJyQOk262kRAq9JBgehnGDMk/WSh1M5+72
+0i8lATqwpms34QoTAFJu1R8ee4hJPck3qCH+UUjlGp0b3wkr31WTgEnD0bmXg/Qam+aTvHX0
+uxBeAsYPSdt7KmpwhuBJoILk4ENZuqgLV0zuNagUwVukiDx4RclVLn/ghHr18+0dVJACCu4e
+XL3hm5tbp2YhgfSfmLI8aaL4l8j8Ayq4H/fkHwY1yKBjoWZVNf/Go2DbDbuqpqv2i4D0qxtK
+clcy7iCDycW3TDNeesKyQnMj5cn1jQTW7kCI7jwp7rG/MBkan5hQBkJMII1iTG8KnWUBtxOt
+pcaPZrHvC//59s3PIX39Cok0eP02pO7rR+dLN/L7Rp7eyh1mS76Vh8vPbpVAqPn37IH8eg4T
+SaqGzCkclp5DjF3Ot2GxDGYEgRY+JA5IjUkpyR8TJbI+3Y4D/0yoZmzWIorLpKDskyVF4avz
+Qc/pojqvyCu4XeSKDNXmVJInbonFQYfONbBUbWH76tyOhN549OYYvT1Gb4/Rmxm9IfRU5asP
+VNz9Q9Gc1Go3EfO64dWtWzfcvvoR3HyPqw8qQvv1G6q4+kG9+1es1osyQjUHbUGWFZG2cx0h
+OdAilCmqxS2qhQNLeXrGrMnJy0FwdTouTECVZTkVs1OMHqGDOkd4hi9NYcU/QydAL8BmioJq
+YJYiLR5hQyFNC8+cAB2jEwBBB33wroHVxoU8BVyclWVZ+Gl/qeMZeKFj91nsiP40I2VRPVZU
+zPJAl9RG3KcRyhxVeAzmX6U7A8O5j1oEmy7IejDSiEdJIqenwiYoP+mLpQV0+QJhAUableeE
+9SCxicyLyRLwS5Qca1rlHOiyiY/pUm9VvNi6DF38OWGCM+kfCpzmmsx7IGx5lP0qYUAv7ftV
+wjmZ+Q8Fhr8XL5aXgF+gaBdEz9D9wyVXmmbU3qY0cnxl4Yg+3K1w5n4b3U5mdHk6N/pdUemy
+8JtKPVT1bu/WTTsU0A7puON8jExMqfmqHWpOrUh92prFMOv2CyVmAMY2bO6Rmtv7ruFNE7e/
+6IfVL0jaU92g7yiDft2igFdK6/jS+nbOIf4Ks6lDfxhWqJ9KqbHieeVShW7ur/cfB9VutsO4
+a+bdDLBntigXbDu+09RVezRe+KBFp1kEG16YEQqM5Y3Dndji0o1XRBlSMBdMP8yD6XIWhEmd
+LGK0EDTWT4b1MI7NtKXBPCXGK/SQ3D3SnreRrQ+/29EjWkYQtcdq+tI1g9ov3rTyTdd+osYU
+xXS97CNpcVFTAwmIaqTpmVckjJrsum5pRVkwUcjeCbKIfmyg3tCXhndOxvUm8ZmNjF9vWS/a
+ZjtWK9qjcGFvph2PuZ75HsZn7TrjaIR1tjBOfNiXOV1tqvGx6SPCcc3o4LLUrl/SE1YbkfIT
+rLODw3q6EPMDgnFNFKmAmlIdQBHsVECp1ggH2J7WXzmhhe+2Te/XrxYpKV+uXwuP1LlpD3Py
+2O/GcR4YmvAw87PTRo5Tj+54uD+K7/hMDNkhJX4FdkMbIzD8b7TDUFUzuhieaIU5SiRCkqnx
+Gk9snp/tj9EKug6bZEbIPrUTEFYPwMJeRagIMSK5nwbRdzcrnJGeeoc0lUni++otrbMH5m5L
+/VvJisFENrJzfGQqXaWm/X0ra8rt6IO4LIoF05nD7LyE0PK2ncct1aGH5KkD9027Q7Q+fSY3
+ahCq1fSZN2wUC0ZOVbzpyeGzYA5mInm0xCoyuxiw7sOCwqkKqSUKPoQFdeQD3aH5fgqLlNc6
+fNuFZYy7fVhQTG7CApUNZPmLXh6ieWd07ikUxLcjIdAej4NxeGq6s/6nFRpfBNJjPSHymt7S
+nAbY1LPeCa8OgXuofpFP3O0kRHYEevhQuS/97TGsw/coPPdH6M54pin1K5pwsE5op4ljRqaw
+pJOGU2ndrdO+Ota702wd5uXMlyPtrfh81tPmeARuORtnQdW5rEzbgZSttsK/SAgPlHLbULNh
++JWs8jspJEhynK5BOJJNhRLSd395eT44BMO1S2AUnuTdH5qRY8Hy0VNKI5YUZzxBvp0aqgwu
+uc17/ZU7V5UAdpL2u7bfV+N/KeNwlO3G6r76MLAU1WbbtTKBlwGdliQBn2Ft95y2K78F8ZmP
+aZ2mjJOeYrvvZcqnVN/vmyf8uHMM2g0z1+iQtC1PuX7HVVoq3q/7xmUysA5kXEGW7CSYugtT
+nPQ2hOKx2rVPFZVoCImqve8oHVKuCRY7+pP1+MIscZa7asNCyE5CbbvKLYlw4wvO/b5B0yLd
+yPrUeBk0ypkQs6bW+rydyaxLsrWcOsox4xCpG3HOSVbCO9FjSNs8UeZTM058SCDZuECZ2jbj
+RnqsdteO/5VUyRBeZsfFwnoouYXjoFJXDYv0hBLoDG8QhcRQXfWf3NFZXW2rmk9Kt+Ow3rsu
+00RxnpTn55vWlTs2x3yUhfLG551saxvweSkpIGV63BHRXoRV4vtGJ4OjdJzhnQhJKsdjd5vo
+kpz9qR137e89kDVcQeSkrPu8bkam21ee+5x6ofjUCwrvBe6MB9/77sNw99GhE78f27ri9pic
+oB0J8cwsIz4JFxegSEmu//p9IgNvql0zSgTibusuN1xrqymini89Sm5O/udzzcHAvBzi7syf
+4dxADXz0hUJAKDd0osEP1ohO2rsh/uVdFcrZZoaCwHkcQbB48YldT765xHUZOMwT56wtfyNP
+RvmCaAm8gKhfGWZ/aCzLrDg76tO6dJmFzwk31doPPxSeUJMsiW1wiAx+NjBHvQw2c5NJFJ7v
+eXSqXcqskTHaJz58b8bH33dtjev3AdmAqgAVyHG4b4ddU/dDJ38kUAafq/ehT8ughPyWnYU8
+aBjfc0prVo3jgKbzcPTJM2S5TI2Z+zJxfv76f67RVG+b+vMDGFMfXQ/Vuf6chksgSE/O8hx9
+kzr66D3RFLYhVXIaIZw2qTHQnO6G7jPudgRRV/7PHo6PRv0oYaydz88kT1LMSKE8HOgaNy4n
+dHjrBKSC7LRvfC38viK6oeFVP9mRHGgbUhr4hV6huaBqvA9p1BnDhJxQHtHb6eQsjA6BTH4+
+rRib+ONcSp0thkc6gt7XLTfNTpXJ/KcWS4fxU0npM8QwcQHgkieRLEG8kTnQp7unxheEFJo8
+U+Thj6IeG6RKwNMfk/Bs3LtmHo5CGYZS8ab5MIyVmicoh/TZPwuRBDHXwug8VyzOCc/7FZdE
+rDf0t51qH/fu71I6RcVahhZ7eZheoEVP0MdEadPkdCJ4FwzP7i+4IBztJ6Y5jBnRaYvnE6sf
+bPl0PeGOrgjW1ZO0a59DGq6RrwcEz9Q+cnNXBO2DTBRI5+67VuDdZ4IF3Dl4BzQK89/RaQo9
+3tJAgiSnXkkFfU0lXAc3bnT5dn/0tSDdDJ7iUxMtD5L/MNHPfyPx/OHt/wkwAD98XZAKDQpl
+bmRzdHJlYW0NZW5kb2JqDTEzIDAgb2JqDTw8L0Nyb3BCb3hbMCAwIDU5NSA4NDJdL1BhcmVu
+dCAyNyAwIFIvQ29udGVudHMgMTUgMCBSL1JvdGF0ZSAwL01lZGlhQm94WzAgMCA1OTUgODQy
+XS9SZXNvdXJjZXMgMTQgMCBSL1R5cGUvUGFnZT4+DWVuZG9iag0xNCAwIG9iag08PC9YT2Jq
+ZWN0PDwvSW0xIDU1IDAgUj4+L0NvbG9yU3BhY2U8PC9DczYgMzYgMCBSPj4vRm9udDw8L1RU
+MiAzNCAwIFIvVFQ0IDM1IDAgUi9UVDYgNDEgMCBSL1RUOCA0MiAwIFIvVFQxMSA0NyAwIFIv
+VFQxMyAxNyAwIFIvVFQxNSAyMSAwIFI+Pi9Qcm9jU2V0Wy9QREYvVGV4dC9JbWFnZUNdL0V4
+dEdTdGF0ZTw8L0dTMSAzOSAwIFI+Pj4+DWVuZG9iag0xNSAwIG9iag08PC9MZW5ndGggMjQ5
+MC9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVhbQ0KaN6UWcty2zgW3esrsHEV2S0heAOcXWK7
+Uu5K4omtnlmke8FIdEYuiXT0SD8+bf5pFlP9A3MuAOplxfZ0uiKSAM49uC/ci7x6eyvZl9Xg
+zXjwajxWTLLx3UAqJvAHP8FyEZivDDdKaDZeDF6drxybrOIEwVaTdiDYeEJ//TYoWDm+H0jB
+RQaITxnDBW5MwuCK0f9O6EpFiBEXQhrCwYOoCOtTcfmPcmS4Kq7flZ7L4ufzq+sP7OKSvbu+
+ZaUrPly+vcan2/LX8U+Dy/GgF+O4d0x6wx1+SP6yGdzR/o55KVtxbw6IHW9lJD03Wko2klyJ
+yrHxReSqHU2kJ5XJqnJkwfXfRNkX7JZefXFZjjSov7+8Hd/Ql9B/YeXIFUqkRcIf7cGCvAFL
+z5V6tIcq9HvAk6wU11jguFb9Fr5nF+B/hWmxd5PUYCXHRnRwPCjmjeAwLAx8tZDsoht8pNls
+xgZWOA416cBhIotHCW9wROmfrI2ktu6SpxKUSHS2oj9mFzPZxU47iRbcht1GuBUSWqfdJKCd
+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
+0c03yVNj/6cKRCX19rmVmEOhy3izlGDoUmtIj75gq4bCFx3r9AgBJXD+0kalIcTT6865ZDgj
+FIp34tNsZX4nAnLbnJu/dE9WxoY7+no9n9Ttn3WkK60fmuxHaMK9D4/yk7B9uf7IfYbJ98la
+EQEpxcic4T6BJxrveDM3pNYAStiXnhxMC25kpY7Nk5tPLUKOCuJaCVA9weEPNi3p9r2JDRz4
+iMxHoaUw5kTGFSH3goni9jYw6gfeBqr7SoIrWjH0lHbUNudm7D3db/9Z4JSitnkmXlHCvtr7
+RyELgKzqmI08Ofymrakf6pbreDqk21PO+v7nfwIMAGIkxTQKDQplbmRzdHJlYW0NZW5kb2Jq
+DTE2IDAgb2JqDTw8L1N1YnR5cGUvVHJ1ZVR5cGUvRm9udERlc2NyaXB0b3IgNSAwIFIvTGFz
+dENoYXIgMTE1L1dpZHRoc1syNzggMCAwIDAgMCA4ODkgMCAwIDAgMCAwIDAgMCAwIDAgMjc4
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA3MjIgNzIyIDAgNzIyIDY2NyAw
+IDAgMCAyNzggMCAwIDAgMCAwIDAgMCAwIDAgMCA2MTEgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgNTU2IDAgNTU2IDYxMSA1NTYgMzMzIDYxMSAwIDI3OCAwIDAgMjc4IDAgNjExIDYxMSAw
+IDAgMzg5IDU1Nl0vQmFzZUZvbnQvQXJpYWwtQm9sZEl0YWxpY01UL0ZpcnN0Q2hhciAzMi9F
+bmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvVHlwZS9Gb250Pj4NZW5kb2JqDTE3IDAgb2JqDTw8
+L1N1YnR5cGUvVHJ1ZVR5cGUvRm9udERlc2NyaXB0b3IgMTggMCBSL0xhc3RDaGFyIDMyL1dp
+ZHRoc1syNTBdL0Jhc2VGb250L1RpbWVzTmV3Um9tYW5QU01UL0ZpcnN0Q2hhciAzMi9FbmNv
+ZGluZy9XaW5BbnNpRW5jb2RpbmcvVHlwZS9Gb250Pj4NZW5kb2JqDTE4IDAgb2JqDTw8L1N0
+ZW1WIDgyL0ZvbnROYW1lL1RpbWVzTmV3Um9tYW5QU01UL0ZvbnRTdHJldGNoL05vcm1hbC9G
+b250V2VpZ2h0IDQwMC9GbGFncyAzNC9EZXNjZW50IC0yMTYvRm9udEJCb3hbLTU2OCAtMzA3
+IDIwMDAgMTAwN10vQXNjZW50IDg5MS9Gb250RmFtaWx5KFRpbWVzIE5ldyBSb21hbikvQ2Fw
+SGVpZ2h0IDY1Ni9YSGVpZ2h0IC01NDYvVHlwZS9Gb250RGVzY3JpcHRvci9JdGFsaWNBbmds
+ZSAwPj4NZW5kb2JqDTE5IDAgb2JqDTw8L1N1YnR5cGUvVHJ1ZVR5cGUvRm9udERlc2NyaXB0
+b3IgNCAwIFIvTGFzdENoYXIgNTYvV2lkdGhzWzg4OSAwIDAgMCAwIDAgMCAyNzggMzMzIDAg
+MCAwIDU1NiAwIDAgNTU2IDU1NiAwIDU1NiA1NTZdL0Jhc2VGb250L0FyaWFsLUl0YWxpY01U
+L0ZpcnN0Q2hhciAzNy9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvVHlwZS9Gb250Pj4NZW5k
+b2JqDTIwIDAgb2JqDTw8L1N0ZW1WIDEzOC9Gb250TmFtZS9BcmlhbC1Cb2xkTVQvRm9udFN0
+cmV0Y2gvTm9ybWFsL0ZvbnRXZWlnaHQgNzAwL0ZsYWdzIDMyL0Rlc2NlbnQgLTIxMS9Gb250
+QkJveFstNjI4IC0zNzYgMjAwMCAxMDEwXS9Bc2NlbnQgOTA1L0ZvbnRGYW1pbHkoQXJpYWwp
+L0NhcEhlaWdodCA3MTgvWEhlaWdodCA1MTUvVHlwZS9Gb250RGVzY3JpcHRvci9JdGFsaWNB
+bmdsZSAwPj4NZW5kb2JqDTIxIDAgb2JqDTw8L1N1YnR5cGUvVHJ1ZVR5cGUvRm9udERlc2Ny
+aXB0b3IgMjAgMCBSL0xhc3RDaGFyIDI0My9XaWR0aHNbMjc4IDAgMCAwIDAgODg5IDAgMCAz
+MzMgMzMzIDM4OSAwIDAgMzMzIDI3OCAwIDU1NiAwIDU1NiAwIDAgMCA1NTYgNTU2IDAgMCAw
+IDAgMCAwIDAgMCAwIDcyMiA3MjIgNzIyIDcyMiA2NjcgMCA3NzggMCAyNzggMCAwIDYxMSA4
+MzMgNzIyIDc3OCAwIDAgNzIyIDY2NyA2MTEgNzIyIDY2NyAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDU1NiA2MTEgNTU2IDYxMSA1NTYgMzMzIDYxMSAwIDI3OCAyNzggMCAyNzggODg5IDYxMSA2
+MTEgNjExIDAgMzg5IDU1NiAzMzMgNjExIDU1NiAwIDU1NiAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAw
+IDAgMCAwIDAgNjExXS9CYXNlRm9udC9BcmlhbC1Cb2xkTVQvRmlyc3RDaGFyIDMyL0VuY29k
+aW5nL1dpbkFuc2lFbmNvZGluZy9UeXBlL0ZvbnQ+Pg1lbmRvYmoNMjIgMCBvYmoNPDwvU3Rl
+bVYgOTAuMzQxL0ZvbnROYW1lL1ZlcmRhbmEtSXRhbGljL0ZvbnRTdHJldGNoL05vcm1hbC9G
+b250V2VpZ2h0IDQwMC9GbGFncyA5Ni9EZXNjZW50IC0yMDkvRm9udEJCb3hbLTEzMSAtMjA3
+IDE0NjEgMTAwMF0vQXNjZW50IDEwMDUvRm9udEZhbWlseShWZXJkYW5hKS9DYXBIZWlnaHQg
+NzM0L1hIZWlnaHQgNTQ2L1R5cGUvRm9udERlc2NyaXB0b3IvSXRhbGljQW5nbGUgLTE1Pj4N
+ZW5kb2JqDTIzIDAgb2JqDTw8L1N1YnR5cGUvVHJ1ZVR5cGUvRm9udERlc2NyaXB0b3IgMjIg
+MCBSL0xhc3RDaGFyIDExNy9XaWR0aHNbMzUyIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA0NTQgMCAwIDAgMCAwIDAgMCA2OTggMCAwIDAg
+MCAwIDAgNDU1IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+NjAxIDAgNTIxIDAgMCAwIDAgNjMzIDAgMzQ0IDAgMCAwIDAgNjA3IDYyMyAwIDQyNyA1MjEg
+Mzk0IDYzM10vQmFzZUZvbnQvVmVyZGFuYS1JdGFsaWMvRmlyc3RDaGFyIDMyL0VuY29kaW5n
+L1dpbkFuc2lFbmNvZGluZy9UeXBlL0ZvbnQ+Pg1lbmRvYmoNMjQgMCBvYmoNPDwvU3VidHlw
+ZS9UcnVlVHlwZS9Gb250RGVzY3JpcHRvciA5IDAgUi9MYXN0Q2hhciAxMTEvV2lkdGhzWzYw
+MF0vQmFzZUZvbnQvQ291cmllck5ld1BTTVQvRmlyc3RDaGFyIDExMS9FbmNvZGluZy9XaW5B
+bnNpRW5jb2RpbmcvVHlwZS9Gb250Pj4NZW5kb2JqDTI1IDAgb2JqDTw8L051bXNbMCAyNiAw
+IFJdPj4NZW5kb2JqDTI2IDAgb2JqDTw8L1MvRD4+DWVuZG9iag0yNyAwIG9iag08PC9Db3Vu
+dCA1L1R5cGUvUGFnZXMvS2lkc1szMiAwIFIgMSAwIFIgNiAwIFIgMTAgMCBSIDEzIDAgUl0+
+Pg1lbmRvYmoNMjggMCBvYmoNPDwvU3VidHlwZS9YTUwvTGVuZ3RoIDM2MTUvVHlwZS9NZXRh
+ZGF0YT4+c3RyZWFtDQo8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJl
+U3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4Onht
+cHRrPSJBZG9iZSBYTVAgQ29yZSA0LjAtYzMxNiA0NC4yNTM5MjEsIFN1biBPY3QgMDEgMjAw
+NiAxNzoxNDozOSI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcv
+MTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRm
+OmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOnBkZj0iaHR0cDovL25zLmFkb2JlLmNvbS9w
+ZGYvMS4zLyI+CiAgICAgICAgIDxwZGY6UHJvZHVjZXI+QWNyb2JhdCBEaXN0aWxsZXIgOC4x
+LjAgKFdpbmRvd3MpPC9wZGY6UHJvZHVjZXI+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgog
+ICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4
+YXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgogICAgICAgICA8eGFwOkNyZWF0
+b3JUb29sPlBTY3JpcHQ1LmRsbCBWZXJzaW9uIDUuMjwveGFwOkNyZWF0b3JUb29sPgogICAg
+ICAgICA8eGFwOk1vZGlmeURhdGU+MjAwOC0wMi0yOVQwODoyMjoyNSswMTowMDwveGFwOk1v
+ZGlmeURhdGU+CiAgICAgICAgIDx4YXA6Q3JlYXRlRGF0ZT4yMDA4LTAyLTI5VDA4OjIyOjI1
+KzAxOjAwPC94YXA6Q3JlYXRlRGF0ZT4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgICAg
+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmRjPSJo
+dHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+CiAgICAgICAgIDxkYzpmb3JtYXQ+
+YXBwbGljYXRpb24vcGRmPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxkYzp0aXRsZT4KICAgICAg
+ICAgICAgPHJkZjpBbHQ+CiAgICAgICAgICAgICAgIDxyZGY6bGkgeG1sOmxhbmc9IngtZGVm
+YXVsdCI+TWljcm9zb2Z0IFdvcmQgLSBFdm9sdWNpw7NuIGRlIGxvcyBuZWdvY2lvc18xMjA3
+LmRvYzwvcmRmOmxpPgogICAgICAgICAgICA8L3JkZjpBbHQ+CiAgICAgICAgIDwvZGM6dGl0
+bGU+CiAgICAgICAgIDxkYzpjcmVhdG9yPgogICAgICAgICAgICA8cmRmOlNlcT4KICAgICAg
+ICAgICAgICAgPHJkZjpsaT5yYWxvbnNvPC9yZGY6bGk+CiAgICAgICAgICAgIDwvcmRmOlNl
+cT4KICAgICAgICAgPC9kYzpjcmVhdG9yPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAg
+ICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6eGFw
+TU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iPgogICAgICAgICA8eGFwTU06
+RG9jdW1lbnRJRD51dWlkOjU4NmVkN2VjLTc5MmItNDY2Ni04NDFjLWIwZWM0NzEzMjE4MTwv
+eGFwTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhhcE1NOkluc3RhbmNlSUQ+dXVpZDo1NWNl
+OTMzZS02MmIzLTQzZDItOTY2Zi04MDlkOWFlMDg4MTk8L3hhcE1NOkluc3RhbmNlSUQ+CiAg
+ICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgCjw/eHBhY2tl
+dCBlbmQ9InciPz4NCmVuZHN0cmVhbQ1lbmRvYmoNMjkgMCBvYmoNPDwvQ3JlYXRpb25EYXRl
+KEQ6MjAwODAyMjkwODIyMjUrMDEnMDAnKS9BdXRob3IocmFsb25zbykvQ3JlYXRvcihQU2Ny
+aXB0NS5kbGwgVmVyc2lvbiA1LjIpL1Byb2R1Y2VyKEFjcm9iYXQgRGlzdGlsbGVyIDguMS4w
+IFwoV2luZG93c1wpKS9Nb2REYXRlKEQ6MjAwODAyMjkwODIyMjUrMDEnMDAnKS9UaXRsZShN
+aWNyb3NvZnQgV29yZCAtIEV2b2x1Y2nzbiBkZSBsb3MgbmVnb2Npb3NfMTIwNy5kb2MpPj4N
+ZW5kb2JqDXhyZWYNCjAgMzANCjAwMDAwMDAwMDAgNjU1MzUgZg0KMDAwMDAyNTI4MCAwMDAw
+MCBuDQowMDAwMDI1NDA3IDAwMDAwIG4NCjAwMDAwMjU2NDAgMDAwMDAgbg0KMDAwMDAyOTc0
+MiAwMDAwMCBuDQowMDAwMDI5OTc1IDAwMDAwIG4NCjAwMDAwMzAyMTMgMDAwMDAgbg0KMDAw
+MDAzMDM0MCAwMDAwMCBuDQowMDAwMDMwNTYwIDAwMDAwIG4NCjAwMDAwMzQ5MDcgMDAwMDAg
+bg0KMDAwMDAzNTE0MCAwMDAwMCBuDQowMDAwMDM1MjcwIDAwMDAwIG4NCjAwMDAwMzU0OTEg
+MDAwMDAgbg0KMDAwMDAzOTU5OCAwMDAwMCBuDQowMDAwMDM5NzI4IDAwMDAwIG4NCjAwMDAw
+Mzk5MzggMDAwMDAgbg0KMDAwMDA0MjQ5OSAwMDAwMCBuDQowMDAwMDQyODY1IDAwMDAwIG4N
+CjAwMDAwNDMwMjQgMDAwMDAgbg0KMDAwMDA0MzI2NyAwMDAwMCBuDQowMDAwMDQzNDc0IDAw
+MDAwIG4NCjAwMDAwNDM3MDIgMDAwMDAgbg0KMDAwMDA0NDM3MyAwMDAwMCBuDQowMDAwMDQ0
+NjExIDAwMDAwIG4NCjAwMDAwNDQ5NjQgMDAwMDAgbg0KMDAwMDA0NTEyMSAwMDAwMCBuDQow
+MDAwMDQ1MTU3IDAwMDAwIG4NCjAwMDAwNDUxODIgMDAwMDAgbg0KMDAwMDA0NTI2MSAwMDAw
+MCBuDQowMDAwMDQ4OTU0IDAwMDAwIG4NCnRyYWlsZXINCjw8L1NpemUgMzA+Pg0Kc3RhcnR4
+cmVmDQoxMTYNCiUlRU9GDQo=</ipp-com:ContenidoFicheroAdjunto>
+		</ipp-com:FicheroAdjunto>
+	</ipp-com:EvolucionNegocios>
+	<ipp-com:InformacionAdicionalRepartoDividendos contextRef="S22007_A-20014452_dci">Con fecha 26 de abril de 2007, el Consejo de Administración de CIE Automotive acordó distribuir un dividendo complementario con cargo a reservas de libre disposición de 0,05 euros por acción, ascendiendo a un total de 5.673 miles de euros.
+
+Con fecha 6 de diciembre de 2007, el Consejo de Administración de CIE Automotive acordó distribuir un dividendo a cuenta del resultado del ejercicio 2007. El importe dle dividendo bruto ha sido de 0,06 euros por acción, ascendiendo a un total de 6.811 miles de euros, satisfecho el 21 de diciembre de 2007.</ipp-com:InformacionAdicionalRepartoDividendos>
+	<ipp-com:AccionesOrdinariasPorcentajeSobreNominal contextRef="S22007_A-20014452_dci" unitRef="pure" decimals="1">44</ipp-com:AccionesOrdinariasPorcentajeSobreNominal>
+	<ipp-com:AccionesOrdinariasImportePorAccion contextRef="S22007_A-20014452_dci" decimals="2" unitRef="euro">0.11</ipp-com:AccionesOrdinariasImportePorAccion>
+	<ipp-com:AccionesOrdinariasImporteTotal contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">12484000</ipp-com:AccionesOrdinariasImporteTotal>
+	<ipp-com:ExistenAdquisicionesTransmisionesParticipacionesCapitalSociedadesCotizadasBolsaObligadasComunicar contextRef="S22007_A-20014452_dci">true</ipp-com:ExistenAdquisicionesTransmisionesParticipacionesCapitalSociedadesCotizadasBolsaObligadasComunicar>
+	<ipp-com:ExistenAutocarteraDeterminantesObligacionComunicar contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenAutocarteraDeterminantesObligacionComunicar>
+	<ipp-com:ExistenOtrosAumentosDisminucionesSignificativosInmovilizado contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenOtrosAumentosDisminucionesSignificativosInmovilizado>
+	<ipp-com:ExistenAumentosReduccionesCapitalSocialNominalAcciones contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenAumentosReduccionesCapitalSocialNominalAcciones>
+	<ipp-com:ExistenEmisionesReembolsosCancelacionesEmprestitos contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenEmisionesReembolsosCancelacionesEmprestitos>
+	<ipp-com:ExistenCambiosAdministradoresConsejoAdministracion contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenCambiosAdministradoresConsejoAdministracion>
+	<ipp-com:ExistenModificacionesEstatutosSociales contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenModificacionesEstatutosSociales>
+	<ipp-com:ExistenTransformacionesFusionesEscisiones contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenTransformacionesFusionesEscisiones>
+	<ipp-com:ExistenCambiosRegularizacionInstitucionalSectorIncidenciaSignificativaSituacionEconomicaFinancieraSociedadGrupo contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenCambiosRegularizacionInstitucionalSectorIncidenciaSignificativaSituacionEconomicaFinancieraSociedadGrupo>
+	<ipp-com:ExistenPleitosLitigiosContenciososAfectanSituacionPatrimonialSociedadGrupo contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenPleitosLitigiosContenciososAfectanSituacionPatrimonialSociedadGrupo>
+	<ipp-com:ExistenSItuacionesConcursalesSuspensionesPagos contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenSItuacionesConcursalesSuspensionesPagos>
+	<ipp-com:ExistenAcuerdosEspecialesLimitacionEscesionRenunciaTotalParcialDerechosPoliticosEconomicosAccionesSociedad contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenAcuerdosEspecialesLimitacionEscesionRenunciaTotalParcialDerechosPoliticosEconomicosAccionesSociedad>
+	<ipp-com:ExistenAcuerdosEstrategicosGruposNacionalesInternacionales contextRef="S22007_A-20014452_dci">false</ipp-com:ExistenAcuerdosEstrategicosGruposNacionalesInternacionales>
+	<ipp-com:ExistenOtrosHechosSignificativos contextRef="S22007_A-20014452_dci">true</ipp-com:ExistenOtrosHechosSignificativos>
+	<ipp-com:AnexoExplicativoHechosSignificativos>
+		<ipp-com:AnexoExplicativoDescripcion contextRef="S22007_A-20014452_ici">ADQUISICIONES O TRANSMISIONES DE PARTICIPACIONES
+(6 de julio de 2007, 28 de agosto de 2007, 26 de septiembre de 2007, 5 de octubre de 2007, 29 de octubre de 2007, 14 de noviembre de 2007, 27 de noviembre de 2007)
+
+OTROS HECHOS RELEVANTES
+(19 de julio de 2007, 25 de octubre de 2007, 14 de noviembre de 2007)</ipp-com:AnexoExplicativoDescripcion>
+	</ipp-com:AnexoExplicativoHechosSignificativos>
+	<ipp-com:OperacionesRealizadasAdministradoresDirectivosSociedad>
+		<ipp-com:CuadroOperacionesPartesVinculadas>
+			<ipp-com:CodigoDescripcionOperacion><ipp-com:CodigoOperacion><ipp-com:Xcode_OPV.026 contextRef="S22007_A-20014452_ici"/></ipp-com:CodigoOperacion></ipp-com:CodigoDescripcionOperacion>
+			<ipp-com:TipoOperacion><ipp-com:Xcode_TIO.A contextRef="S22007_A-20014452_ici"/></ipp-com:TipoOperacion>
+			<dgi:StatusType><dgi-lc-es:Xcode_NST.AC contextRef="S22007_A-20014452_ici"/></dgi:StatusType>
+			<ipp-com:ImporteOperacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">2463000</ipp-com:ImporteOperacion>
+			<ipp-com:ResultadoOperacionVinculada contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">0</ipp-com:ResultadoOperacionVinculada>
+			<ipp-com:PlazoOperacion><ipp-com:OtroCodigoDescripcion contextRef="S22007_A-20014452_dci">CP</ipp-com:OtroCodigoDescripcion></ipp-com:PlazoOperacion>
+		</ipp-com:CuadroOperacionesPartesVinculadas>
+		<ipp-com:CuadroOperacionesPartesVinculadas>
+			<ipp-com:CodigoDescripcionOperacion><ipp-com:CodigoOperacion><ipp-com:Xcode_OPV.016 contextRef="S22007_A-20014452_ici"/></ipp-com:CodigoOperacion></ipp-com:CodigoDescripcionOperacion>
+			<ipp-com:TipoOperacion><ipp-com:Xcode_TIO.A contextRef="S22007_A-20014452_ici"/></ipp-com:TipoOperacion>
+			<dgi:StatusType><dgi-lc-es:Xcode_NST.AN contextRef="S22007_A-20014452_ici"/></dgi:StatusType>
+			<ipp-com:ImporteOperacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">1949000</ipp-com:ImporteOperacion>
+			<ipp-com:ResultadoOperacionVinculada contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">0</ipp-com:ResultadoOperacionVinculada>
+			<ipp-com:PlazoOperacion><ipp-com:OtroCodigoDescripcion contextRef="S22007_A-20014452_dci">LP</ipp-com:OtroCodigoDescripcion></ipp-com:PlazoOperacion>
+		</ipp-com:CuadroOperacionesPartesVinculadas>
+		<ipp-com:CuadroOperacionesPartesVinculadas>
+			<ipp-com:CodigoDescripcionOperacion><ipp-com:CodigoOperacion><ipp-com:Xcode_OPV.018 contextRef="S22007_A-20014452_ici"/></ipp-com:CodigoOperacion></ipp-com:CodigoDescripcionOperacion>
+			<ipp-com:TipoOperacion><ipp-com:Xcode_TIO.I contextRef="S22007_A-20014452_ici"/></ipp-com:TipoOperacion>
+			<dgi:StatusType><dgi-lc-es:Xcode_NST.AN contextRef="S22007_A-20014452_ici"/></dgi:StatusType>
+			<ipp-com:ImporteOperacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">180000</ipp-com:ImporteOperacion>
+			<ipp-com:ResultadoOperacionVinculada contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">0</ipp-com:ResultadoOperacionVinculada>
+			<ipp-com:PlazoOperacion><ipp-com:OtroCodigoDescripcion contextRef="S22007_A-20014452_dci">CP</ipp-com:OtroCodigoDescripcion></ipp-com:PlazoOperacion>
+			<ipp-com:DenominacionSocialParteVinculada contextRef="S22007_A-20014452_dci">Alfonso Ausín Maeso</ipp-com:DenominacionSocialParteVinculada>
+		</ipp-com:CuadroOperacionesPartesVinculadas>
+		<ipp-com:OperacionesRealizadasAdministradoresDirectivosSociedadOtrosAspectos contextRef="S22007_A-20014452_dci">El Consejero Delegado de Bionor Transformación, S.A. y miembro de la Alta Dirección de CIE Automotive, S.A., Don Alfonso Ausín Maeso, adquirió en 2006 el 2% del capital social de Bionor Transformación, S.A. La compraventa se efectuó con pago aplazado, correspondiendo el importe arriba indicado al saldo a pagar a 31 de diciembre de 2007.</ipp-com:OperacionesRealizadasAdministradoresDirectivosSociedadOtrosAspectos>
+	</ipp-com:OperacionesRealizadasAdministradoresDirectivosSociedad>
+	<ipp-com:OperacionesOtrasPartesVinculadas>
+		<ipp-com:CuadroOperacionesPartesVinculadas>
+			<ipp-com:CodigoDescripcionOperacion><ipp-com:CodigoOperacion><ipp-com:Xcode_OPV.001 contextRef="S22007_A-20014452_ici"/></ipp-com:CodigoOperacion></ipp-com:CodigoDescripcionOperacion>
+			<ipp-com:TipoOperacion><ipp-com:Xcode_TIO.A contextRef="S22007_A-20014452_ici"/></ipp-com:TipoOperacion>
+			<dgi:StatusType><dgi-lc-es:Xcode_NST.AC contextRef="S22007_A-20014452_ici"/></dgi:StatusType>
+			<ipp-com:ImporteOperacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">614000</ipp-com:ImporteOperacion>
+			<ipp-com:ResultadoOperacionVinculada contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">0</ipp-com:ResultadoOperacionVinculada>
+			<ipp-com:PlazoOperacion><ipp-com:OtroCodigoDescripcion contextRef="S22007_A-20014452_dci">CP</ipp-com:OtroCodigoDescripcion></ipp-com:PlazoOperacion>
+		</ipp-com:CuadroOperacionesPartesVinculadas>
+		<ipp-com:CuadroOperacionesPartesVinculadas>
+			<ipp-com:CodigoDescripcionOperacion><ipp-com:CodigoOperacion><ipp-com:Xcode_OPV.010 contextRef="S22007_A-20014452_ici"/></ipp-com:CodigoOperacion></ipp-com:CodigoDescripcionOperacion>
+			<ipp-com:TipoOperacion><ipp-com:Xcode_TIO.A contextRef="S22007_A-20014452_ici"/></ipp-com:TipoOperacion>
+			<dgi:StatusType><dgi-lc-es:Xcode_NST.AC contextRef="S22007_A-20014452_ici"/></dgi:StatusType>
+			<ipp-com:ImporteOperacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">2117000</ipp-com:ImporteOperacion>
+			<ipp-com:ResultadoOperacionVinculada contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">0</ipp-com:ResultadoOperacionVinculada>
+			<ipp-com:PlazoOperacion><ipp-com:OtroCodigoDescripcion contextRef="S22007_A-20014452_dci">CP</ipp-com:OtroCodigoDescripcion></ipp-com:PlazoOperacion>
+		</ipp-com:CuadroOperacionesPartesVinculadas>
+		<ipp-com:OperacionesOtrasPartesVinculadasOtrosAspectos contextRef="S22007_A-20014452_dci"></ipp-com:OperacionesOtrasPartesVinculadasOtrosAspectos>
+	</ipp-com:OperacionesOtrasPartesVinculadas>
+	<ipp-gen:ProvisionesParaRiesgosGastos contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">3491000</ipp-gen:ProvisionesParaRiesgosGastos>
+	<ipp-mas-pat:InmovilizacionesInmateriales contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">5360000</ipp-mas-pat:InmovilizacionesInmateriales>
+	<ipp-gen:OtroInmovilizadoInmaterial contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">5360000</ipp-gen:OtroInmovilizadoInmaterial>
+	<ipp-mas-pat:InmovilizacionesMateriales contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">1156000</ipp-mas-pat:InmovilizacionesMateriales>
+	<ipp-mas-pat:InmovilizacionesFinancieras contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">634485000</ipp-mas-pat:InmovilizacionesFinancieras>
+	<ipp-gen:Inmovilizado contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">641001000</ipp-gen:Inmovilizado>
+	<ipp-mas-pat:GastosDistribuirVariosEjercicios contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">1078000</ipp-mas-pat:GastosDistribuirVariosEjercicios>
+	<ipp-mas-pat:Deudores contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">42038000</ipp-mas-pat:Deudores>
+	<ipp-mas-pat:InversionesFinancierasTemporales contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">21106000</ipp-mas-pat:InversionesFinancierasTemporales>
+	<ipp-gen-ind:AccionesPropiasCortoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">2858000</ipp-gen-ind:AccionesPropiasCortoPlazo>
+	<ipp-mas-pat:Tesoreria contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">139000</ipp-mas-pat:Tesoreria>
+	<ipp-mas-pat:AjustesPeriodificacionActivo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">546000</ipp-mas-pat:AjustesPeriodificacionActivo>
+	<ipp-mas-pat:ActivoCirculante contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">66687000</ipp-mas-pat:ActivoCirculante>
+	<ipp-mas-pat:TotalActivo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">708766000</ipp-mas-pat:TotalActivo>
+	<ipp-mas-pat:CapitalSuscrito contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">28500000</ipp-mas-pat:CapitalSuscrito>
+	<ipp-mas-pat:Reservas contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">83392000</ipp-mas-pat:Reservas>
+	<ipp-mas-pat:ResultadoPeriodo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">16622000</ipp-mas-pat:ResultadoPeriodo>
+	<ipp-gen:DividendosCuentaEntregadosEjercicio contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">-6811000</ipp-gen:DividendosCuentaEntregadosEjercicio>
+	<ipp-mas-pat:FondosPropios contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">121703000</ipp-mas-pat:FondosPropios>
+	<ipp-mas-pat:DeudasEntidadesCreditoLargoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">339846000</ipp-mas-pat:DeudasEntidadesCreditoLargoPlazo>
+	<ipp-mas-pat:DeudasEmpresasGrupoAsociadasLargoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">150748000</ipp-mas-pat:DeudasEmpresasGrupoAsociadasLargoPlazo>
+	<ipp-mas-pat:OtrasDeudasLargo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">4681000</ipp-mas-pat:OtrasDeudasLargo>
+	<ipp-mas-pat:AcreedoresLargoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">495275000</ipp-mas-pat:AcreedoresLargoPlazo>
+	<ipp-mas-pat:DeudasEntidadesCreditoCortoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">37894000</ipp-mas-pat:DeudasEntidadesCreditoCortoPlazo>
+	<ipp-mas-pat:DeudasEmpresasGrupoAsociadasCortoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">38696000</ipp-mas-pat:DeudasEmpresasGrupoAsociadasCortoPlazo>
+	<ipp-mas-pat:AcreedoresComerciales contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">3631000</ipp-mas-pat:AcreedoresComerciales>
+	<ipp-mas-pat:OtrasDeudasCorto contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">7127000</ipp-mas-pat:OtrasDeudasCorto>
+	<ipp-mas-pat:AcreedoresCortoPlazo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">87348000</ipp-mas-pat:AcreedoresCortoPlazo>
+	<ipp-mas-pat:TotalPasivo contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">708766000</ipp-mas-pat:TotalPasivo>
+	<ipp-mas-pat:IngresosDistribuirVariosEjercicios contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">949000</ipp-mas-pat:IngresosDistribuirVariosEjercicios>
+	<ipp-mas-pat:Tesoreria contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">64000</ipp-mas-pat:Tesoreria>
+	<ipp-gen:ProvisionesParaRiesgosGastos contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">3491000</ipp-gen:ProvisionesParaRiesgosGastos>
+	<ipp-mas-pat:InmovilizacionesInmateriales contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">5054000</ipp-mas-pat:InmovilizacionesInmateriales>
+	<ipp-gen:OtroInmovilizadoInmaterial contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">5054000</ipp-gen:OtroInmovilizadoInmaterial>
+	<ipp-mas-pat:InmovilizacionesMateriales contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">1328000</ipp-mas-pat:InmovilizacionesMateriales>
+	<ipp-mas-pat:InmovilizacionesFinancieras contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">454318000</ipp-mas-pat:InmovilizacionesFinancieras>
+	<ipp-gen:Inmovilizado contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">460700000</ipp-gen:Inmovilizado>
+	<ipp-mas-pat:GastosDistribuirVariosEjercicios contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">1292000</ipp-mas-pat:GastosDistribuirVariosEjercicios>
+	<ipp-mas-pat:Deudores contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">30450000</ipp-mas-pat:Deudores>
+	<ipp-mas-pat:InversionesFinancierasTemporales contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">34548000</ipp-mas-pat:InversionesFinancierasTemporales>
+	<ipp-gen-ind:AccionesPropiasCortoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">693000</ipp-gen-ind:AccionesPropiasCortoPlazo>
+	<ipp-mas-pat:AjustesPeriodificacionActivo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">665000</ipp-mas-pat:AjustesPeriodificacionActivo>
+	<ipp-mas-pat:ActivoCirculante contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">66420000</ipp-mas-pat:ActivoCirculante>
+	<ipp-mas-pat:TotalActivo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">528412000</ipp-mas-pat:TotalActivo>
+	<ipp-mas-pat:CapitalSuscrito contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">28500000</ipp-mas-pat:CapitalSuscrito>
+	<ipp-mas-pat:Reservas contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">88303000</ipp-mas-pat:Reservas>
+	<ipp-mas-pat:ResultadoPeriodo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">7600000</ipp-mas-pat:ResultadoPeriodo>
+	<ipp-gen:DividendosCuentaEntregadosEjercicio contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">-6840000</ipp-gen:DividendosCuentaEntregadosEjercicio>
+	<ipp-mas-pat:FondosPropios contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">117563000</ipp-mas-pat:FondosPropios>
+	<ipp-mas-pat:DeudasEntidadesCreditoLargoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">326284000</ipp-mas-pat:DeudasEntidadesCreditoLargoPlazo>
+	<ipp-mas-pat:DeudasEmpresasGrupoAsociadasLargoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">26389000</ipp-mas-pat:DeudasEmpresasGrupoAsociadasLargoPlazo>
+	<ipp-mas-pat:OtrasDeudasLargo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">7979000</ipp-mas-pat:OtrasDeudasLargo>
+	<ipp-mas-pat:AcreedoresLargoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">360652000</ipp-mas-pat:AcreedoresLargoPlazo>
+	<ipp-mas-pat:DeudasEntidadesCreditoCortoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">2770000</ipp-mas-pat:DeudasEntidadesCreditoCortoPlazo>
+	<ipp-mas-pat:DeudasEmpresasGrupoAsociadasCortoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">21484000</ipp-mas-pat:DeudasEmpresasGrupoAsociadasCortoPlazo>
+	<ipp-mas-pat:AcreedoresComerciales contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">4763000</ipp-mas-pat:AcreedoresComerciales>
+	<ipp-mas-pat:OtrasDeudasCorto contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">16708000</ipp-mas-pat:OtrasDeudasCorto>
+	<ipp-mas-pat:AcreedoresCortoPlazo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">45725000</ipp-mas-pat:AcreedoresCortoPlazo>
+	<ipp-mas-pat:TotalPasivo contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">528412000</ipp-mas-pat:TotalPasivo>
+	<ipp-mas-pat:IngresosDistribuirVariosEjercicios contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">981000</ipp-mas-pat:IngresosDistribuirVariosEjercicios>
+	<ipp-mas-pat:OtrosIngresos contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">22092000</ipp-mas-pat:OtrosIngresos>
+	<ipp-gen:ValorTotalProduccion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">22092000</ipp-gen:ValorTotalProduccion>
+	<ipp-gen:GastosExternosExplotacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-12491000</ipp-gen:GastosExternosExplotacion>
+	<ipp-gen:ValorAniadidoAjustado contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">9601000</ipp-gen:ValorAniadidoAjustado>
+	<ipp-mas-pat:GastosPersonal contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-6750000</ipp-mas-pat:GastosPersonal>
+	<ipp-gen:ResultadoBrutoExplotacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">2851000</ipp-gen:ResultadoBrutoExplotacion>
+	<ipp-gen:DotacionAmortizacionesInmovilizado contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-1351000</ipp-gen:DotacionAmortizacionesInmovilizado>
+	<ipp-gen:ResultadoNetoExplotacion contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">1500000</ipp-gen:ResultadoNetoExplotacion>
+	<ipp-mas-pat:IngresosFinancieros contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">17908000</ipp-mas-pat:IngresosFinancieros>
+	<ipp-mas-pat:GastosFinancieros contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-19782000</ipp-mas-pat:GastosFinancieros>
+	<ipp-gen:ResultadoActividadesOrdinarias contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-374000</ipp-gen:ResultadoActividadesOrdinarias>
+	<ipp-gen:ResultadosProcedentesInmovilizadoInmaterialMaterialCarteraControl contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">25468000</ipp-gen:ResultadosProcedentesInmovilizadoInmaterialMaterialCarteraControl>
+	<ipp-gen:VariacionProvisionesInmovilizadoInmaterialMaterialCarteraControl contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-9504000</ipp-gen:VariacionProvisionesInmovilizadoInmaterialMaterialCarteraControl>
+	<ipp-gen:ResultadosEjerciciosAnteriores contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">-44000</ipp-gen:ResultadosEjerciciosAnteriores>
+	<ipp-gen:OtrosResultadosExtraordinarios contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">140000</ipp-gen:OtrosResultadosExtraordinarios>
+	<ipp-mas-pat:ResultadoAntesImpuestos contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">15686000</ipp-mas-pat:ResultadoAntesImpuestos>
+	<ipp-mas-pat:ImpuestoSobreSociedadesOtros contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">936000</ipp-mas-pat:ImpuestoSobreSociedadesOtros>
+	<ipp-mas-pat:ResultadoEjercicio contextRef="S22007_A-20014452_dci" decimals="-3" unitRef="euro">16622000</ipp-mas-pat:ResultadoEjercicio>
+	<ipp-mas-pat:OtrosIngresos contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">27653000</ipp-mas-pat:OtrosIngresos>
+	<ipp-gen:ValorTotalProduccion contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">27653000</ipp-gen:ValorTotalProduccion>
+	<ipp-gen:GastosExternosExplotacion contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-11865000</ipp-gen:GastosExternosExplotacion>
+	<ipp-gen:ValorAniadidoAjustado contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">15788000</ipp-gen:ValorAniadidoAjustado>
+	<ipp-mas-pat:GastosPersonal contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-6436000</ipp-mas-pat:GastosPersonal>
+	<ipp-gen:ResultadoBrutoExplotacion contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">9352000</ipp-gen:ResultadoBrutoExplotacion>
+	<ipp-gen:DotacionAmortizacionesInmovilizado contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-1112000</ipp-gen:DotacionAmortizacionesInmovilizado>
+	<ipp-gen:ResultadoNetoExplotacion contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">8240000</ipp-gen:ResultadoNetoExplotacion>
+	<ipp-mas-pat:IngresosFinancieros contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">13482000</ipp-mas-pat:IngresosFinancieros>
+	<ipp-mas-pat:GastosFinancieros contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-12776000</ipp-mas-pat:GastosFinancieros>
+	<ipp-gen:DotacionAmortizacionProvisionesFinancieras contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">1051000</ipp-gen:DotacionAmortizacionProvisionesFinancieras>
+	<ipp-gen:ResultadoActividadesOrdinarias contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">9997000</ipp-gen:ResultadoActividadesOrdinarias>
+	<ipp-gen:ResultadosProcedentesInmovilizadoInmaterialMaterialCarteraControl contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">7894000</ipp-gen:ResultadosProcedentesInmovilizadoInmaterialMaterialCarteraControl>
+	<ipp-gen:VariacionProvisionesInmovilizadoInmaterialMaterialCarteraControl contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-9227000</ipp-gen:VariacionProvisionesInmovilizadoInmaterialMaterialCarteraControl>
+	<ipp-gen:ResultadosEjerciciosAnteriores contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-24000</ipp-gen:ResultadosEjerciciosAnteriores>
+	<ipp-gen:OtrosResultadosExtraordinarios contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">1003000</ipp-gen:OtrosResultadosExtraordinarios>
+	<ipp-mas-pat:ResultadoAntesImpuestos contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">9643000</ipp-mas-pat:ResultadoAntesImpuestos>
+	<ipp-mas-pat:ImpuestoSobreSociedadesOtros contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">-2043000</ipp-mas-pat:ImpuestoSobreSociedadesOtros>
+	<ipp-mas-pat:ResultadoEjercicio contextRef="S22006_A-20014452_dpi" decimals="-3" unitRef="euro">7600000</ipp-mas-pat:ResultadoEjercicio>
+	<ipp-mas-pat:InmovilizadoMaterialNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">537623000</ipp-mas-pat:InmovilizadoMaterialNIIF>
+	<ipp-mas-pat:FondoComercioNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">184589000</ipp-mas-pat:FondoComercioNIIF>
+	<ipp-mas-pat:OtrosActivosIntangiblesNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">25193000</ipp-mas-pat:OtrosActivosIntangiblesNIIF>
+	<ipp-mas-pat:ActivosFinancierosNoCorrientesNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">12882000</ipp-mas-pat:ActivosFinancierosNoCorrientesNIIF>
+	<ipp-mas-pat:InversionesContabilizadasAplicandoMetodoParticipacion contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">2218000</ipp-mas-pat:InversionesContabilizadasAplicandoMetodoParticipacion>
+	<ipp-mas-pat:ActivoImpuestosDiferidos contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">48267000</ipp-mas-pat:ActivoImpuestosDiferidos>
+	<ipp-mas-pat:OtrosActivosNoCorrientesNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">18806000</ipp-mas-pat:OtrosActivosNoCorrientesNIIF>
+	<ipp-mas-pat:ActivosNoCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">829578000</ipp-mas-pat:ActivosNoCorrientes>
+	<ipp-mas-pat:ExistenciasNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">162242000</ipp-mas-pat:ExistenciasNIIF>
+	<ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrarNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">191632000</ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrarNIIF>
+	<ipp-mas-pat:OtrosActivosFinancierosCorrientesNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">39733000</ipp-mas-pat:OtrosActivosFinancierosCorrientesNIIF>
+	<ipp-mas-pat:ActivosImpuestosSobreGananciasCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">30530000</ipp-mas-pat:ActivosImpuestosSobreGananciasCorrientes>
+	<ipp-mas-pat:OtrosActivosCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">2347000</ipp-mas-pat:OtrosActivosCorrientes>
+	<ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentesNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">67878000</ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentesNIIF>
+	<ipp-mas-pat:SubtotalActivosCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">494362000</ipp-mas-pat:SubtotalActivosCorrientes>
+	<ipp-mas-pat:ActivosCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">494362000</ipp-mas-pat:ActivosCorrientes>
+	<ipp-mas-pat:TotalActivoNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">1323940000</ipp-mas-pat:TotalActivoNIIF>
+	<ipp-mas-pat:CapitalNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">28500000</ipp-mas-pat:CapitalNIIF>
+	<ipp-gen-con:OtrasReservas contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">33752000</ipp-gen-con:OtrasReservas>
+	<ipp-mas-pat:GananciasAcumuladas contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">210170000</ipp-mas-pat:GananciasAcumuladas>
+	<ipp-mas-pat:MenosValoresPropios contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">-2108000</ipp-mas-pat:MenosValoresPropios>
+	<ipp-mas-pat:DiferenciasCambio contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">8467000</ipp-mas-pat:DiferenciasCambio>
+	<ipp-mas-pat:MenosDividendosCuenta contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">-6811000</ipp-mas-pat:MenosDividendosCuenta>
+	<ipp-mas-pat:PatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominante contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">271970000</ipp-mas-pat:PatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominante>
+	<ipp-mas-pat:InteresesMinoritarios contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">24931000</ipp-mas-pat:InteresesMinoritarios>
+	<ipp-mas-pat:PatrimonioNeto contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">296901000</ipp-mas-pat:PatrimonioNeto>
+	<ipp-mas-pat:DeudasEntidadesCreditoLargoPlazoNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">403199000</ipp-mas-pat:DeudasEntidadesCreditoLargoPlazoNIIF>
+	<ipp-mas-pat:PasivosImpuestosDiferidos contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">28356000</ipp-mas-pat:PasivosImpuestosDiferidos>
+	<ipp-mas-pat:ProvisionesLargoPlazo contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">21523000</ipp-mas-pat:ProvisionesLargoPlazo>
+	<ipp-mas-pat:OtrosPasivosNoCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">80164000</ipp-mas-pat:OtrosPasivosNoCorrientes>
+	<ipp-mas-pat:PasivosNoCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">533242000</ipp-mas-pat:PasivosNoCorrientes>
+	<ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagarNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">310803000</ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagarNIIF>
+	<ipp-mas-pat:DeudasEntidadesCreditoCortoPlazoNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">112724000</ipp-mas-pat:DeudasEntidadesCreditoCortoPlazoNIIF>
+	<ipp-mas-pat:ProvisionesCortoPlazo contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">2363000</ipp-mas-pat:ProvisionesCortoPlazo>
+	<ipp-mas-pat:PasivosImpuestosSobreGananciasCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">28073000</ipp-mas-pat:PasivosImpuestosSobreGananciasCorrientes>
+	<ipp-mas-pat:OtrosPasivosCorrientesNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">39834000</ipp-mas-pat:OtrosPasivosCorrientesNIIF>
+	<ipp-mas-pat:SubtotalPasivosCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">493797000</ipp-mas-pat:SubtotalPasivosCorrientes>
+	<ipp-mas-pat:PasivosCorrientes contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">493797000</ipp-mas-pat:PasivosCorrientes>
+	<ipp-mas-pat:TotalPasivoNIIF contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">1323940000</ipp-mas-pat:TotalPasivoNIIF>
+	<ipp-mas-pat:InmovilizadoMaterialNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">431288000</ipp-mas-pat:InmovilizadoMaterialNIIF>
+	<ipp-mas-pat:FondoComercioNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">104156000</ipp-mas-pat:FondoComercioNIIF>
+	<ipp-mas-pat:OtrosActivosIntangiblesNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">18114000</ipp-mas-pat:OtrosActivosIntangiblesNIIF>
+	<ipp-mas-pat:ActivosFinancierosNoCorrientesNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">14275000</ipp-mas-pat:ActivosFinancierosNoCorrientesNIIF>
+	<ipp-mas-pat:InversionesContabilizadasAplicandoMetodoParticipacion contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">975000</ipp-mas-pat:InversionesContabilizadasAplicandoMetodoParticipacion>
+	<ipp-mas-pat:ActivoImpuestosDiferidos contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">36054000</ipp-mas-pat:ActivoImpuestosDiferidos>
+	<ipp-mas-pat:OtrosActivosNoCorrientesNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">4811000</ipp-mas-pat:OtrosActivosNoCorrientesNIIF>
+	<ipp-mas-pat:ActivosNoCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">609673000</ipp-mas-pat:ActivosNoCorrientes>
+	<ipp-mas-pat:ExistenciasNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">124034000</ipp-mas-pat:ExistenciasNIIF>
+	<ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrarNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">146483000</ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrarNIIF>
+	<ipp-mas-pat:OtrosActivosFinancierosCorrientesNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">7273000</ipp-mas-pat:OtrosActivosFinancierosCorrientesNIIF>
+	<ipp-mas-pat:ActivosImpuestosSobreGananciasCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">23562000</ipp-mas-pat:ActivosImpuestosSobreGananciasCorrientes>
+	<ipp-mas-pat:OtrosActivosCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">1563000</ipp-mas-pat:OtrosActivosCorrientes>
+	<ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentesNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">155426000</ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentesNIIF>
+	<ipp-mas-pat:SubtotalActivosCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">458341000</ipp-mas-pat:SubtotalActivosCorrientes>
+	<ipp-mas-pat:ActivosCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">458341000</ipp-mas-pat:ActivosCorrientes>
+	<ipp-mas-pat:TotalActivoNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">1068014000</ipp-mas-pat:TotalActivoNIIF>
+	<ipp-mas-pat:CapitalNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">28500000</ipp-mas-pat:CapitalNIIF>
+	<ipp-gen-con:OtrasReservas contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">33752000</ipp-gen-con:OtrasReservas>
+	<ipp-mas-pat:GananciasAcumuladas contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">172234000</ipp-mas-pat:GananciasAcumuladas>
+	<ipp-mas-pat:MenosValoresPropios contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">57000</ipp-mas-pat:MenosValoresPropios>
+	<ipp-mas-pat:DiferenciasCambio contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">9258000</ipp-mas-pat:DiferenciasCambio>
+	<ipp-mas-pat:MenosDividendosCuenta contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">-6840000</ipp-mas-pat:MenosDividendosCuenta>
+	<ipp-mas-pat:PatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominante contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">236961000</ipp-mas-pat:PatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominante>
+	<ipp-mas-pat:InteresesMinoritarios contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">24672000</ipp-mas-pat:InteresesMinoritarios>
+	<ipp-mas-pat:PatrimonioNeto contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">261633000</ipp-mas-pat:PatrimonioNeto>
+	<ipp-mas-pat:DeudasEntidadesCreditoLargoPlazoNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">356783000</ipp-mas-pat:DeudasEntidadesCreditoLargoPlazoNIIF>
+	<ipp-mas-pat:PasivosImpuestosDiferidos contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">17334000</ipp-mas-pat:PasivosImpuestosDiferidos>
+	<ipp-mas-pat:ProvisionesLargoPlazo contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">16665000</ipp-mas-pat:ProvisionesLargoPlazo>
+	<ipp-mas-pat:OtrosPasivosNoCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">75154000</ipp-mas-pat:OtrosPasivosNoCorrientes>
+	<ipp-mas-pat:PasivosNoCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">465936000</ipp-mas-pat:PasivosNoCorrientes>
+	<ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagarNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">212120000</ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagarNIIF>
+	<ipp-mas-pat:DeudasEntidadesCreditoCortoPlazoNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">59641000</ipp-mas-pat:DeudasEntidadesCreditoCortoPlazoNIIF>
+	<ipp-mas-pat:ProvisionesCortoPlazo contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">12481000</ipp-mas-pat:ProvisionesCortoPlazo>
+	<ipp-mas-pat:PasivosImpuestosSobreGananciasCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">21562000</ipp-mas-pat:PasivosImpuestosSobreGananciasCorrientes>
+	<ipp-mas-pat:OtrosPasivosCorrientesNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">34641000</ipp-mas-pat:OtrosPasivosCorrientesNIIF>
+	<ipp-mas-pat:SubtotalPasivosCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">340445000</ipp-mas-pat:SubtotalPasivosCorrientes>
+	<ipp-mas-pat:PasivosCorrientes contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">340445000</ipp-mas-pat:PasivosCorrientes>
+	<ipp-mas-pat:TotalPasivoNIIF contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">1068014000</ipp-mas-pat:TotalPasivoNIIF>
+	<ipp-mas-pat:ImporteNetoCifraNegocioNIIF contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">1277571000</ipp-mas-pat:ImporteNetoCifraNegocioNIIF>
+	<ipp-mas-pat:OtrosIngresosNIIF contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">28053000</ipp-mas-pat:OtrosIngresosNIIF>
+	<ipp-mas-pat:VariacionExistenciasProductosTerminadosOEnCursoNIIF contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">3519000</ipp-mas-pat:VariacionExistenciasProductosTerminadosOEnCursoNIIF>
+	<ipp-mas-pat:Aprovisionamientos contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-791659000</ipp-mas-pat:Aprovisionamientos>
+	<ipp-mas-pat:GastoPersonalNIIF contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-228278000</ipp-mas-pat:GastoPersonalNIIF>
+	<ipp-mas-pat:DotacionAmortizacion contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-67031000</ipp-mas-pat:DotacionAmortizacion>
+	<ipp-mas-pat:OtrosGastos contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-131810000</ipp-mas-pat:OtrosGastos>
+	<ipp-mas-pat:BeneficioPerdidaExplotacion contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">90365000</ipp-mas-pat:BeneficioPerdidaExplotacion>
+	<ipp-mas-pat:IngresosFinancierosNIIF contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">6236000</ipp-mas-pat:IngresosFinancierosNIIF>
+	<ipp-mas-pat:GastosFinancierosNIIF contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-37949000</ipp-mas-pat:GastosFinancierosNIIF>
+	<ipp-mas-pat:DiferenciasCambioNeto contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">1305000</ipp-mas-pat:DiferenciasCambioNeto>
+	<ipp-mas-pat:ResultadoVariacionesValorInstrumentosFinancierosValorRazonableNeto contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">228000</ipp-mas-pat:ResultadoVariacionesValorInstrumentosFinancierosValorRazonableNeto>
+	<ipp-mas-pat:ParticipacionResultadoEjercicioAsociadasNegociosConjuntosContabilicenSegunMetodoParticipacion contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-117000</ipp-mas-pat:ParticipacionResultadoEjercicioAsociadasNegociosConjuntosContabilicenSegunMetodoParticipacion>
+	<ipp-mas-pat:BeneficioPerdidaAntesImpuestosActividadesContinuadas contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">60068000</ipp-mas-pat:BeneficioPerdidaAntesImpuestosActividadesContinuadas>
+	<ipp-mas-pat:GastoImpuestoSobreGanancias contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-8812000</ipp-mas-pat:GastoImpuestoSobreGanancias>
+	<ipp-mas-pat:BeneficioPerdidaEjercicioActividadesContinuadas contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">51256000</ipp-mas-pat:BeneficioPerdidaEjercicioActividadesContinuadas>
+	<ipp-mas-pat:BeneficioPerdidaEjercicio contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">51256000</ipp-mas-pat:BeneficioPerdidaEjercicio>
+	<ipp-mas-pat:InteresesMinoritariosResultado contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">-584000</ipp-mas-pat:InteresesMinoritariosResultado>
+	<ipp-mas-pat:BeneficioPerdidaAtribuibleTenedoresInstrumentosPatrimonioNetoDominante contextRef="S22007_A-20014452_dcc" decimals="-3" unitRef="euro">50672000</ipp-mas-pat:BeneficioPerdidaAtribuibleTenedoresInstrumentosPatrimonioNetoDominante>
+	<ipp-mas-pat:ImporteNetoCifraNegocioNIIF contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">958544000</ipp-mas-pat:ImporteNetoCifraNegocioNIIF>
+	<ipp-mas-pat:OtrosIngresosNIIF contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">10610000</ipp-mas-pat:OtrosIngresosNIIF>
+	<ipp-mas-pat:VariacionExistenciasProductosTerminadosOEnCursoNIIF contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">18364000</ipp-mas-pat:VariacionExistenciasProductosTerminadosOEnCursoNIIF>
+	<ipp-mas-pat:Aprovisionamientos contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-511354000</ipp-mas-pat:Aprovisionamientos>
+	<ipp-mas-pat:GastoPersonalNIIF contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-225693000</ipp-mas-pat:GastoPersonalNIIF>
+	<ipp-mas-pat:DotacionAmortizacion contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-59568000</ipp-mas-pat:DotacionAmortizacion>
+	<ipp-mas-pat:OtrosGastos contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-117169000</ipp-mas-pat:OtrosGastos>
+	<ipp-mas-pat:BeneficioPerdidaExplotacion contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">73734000</ipp-mas-pat:BeneficioPerdidaExplotacion>
+	<ipp-mas-pat:IngresosFinancierosNIIF contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">5825000</ipp-mas-pat:IngresosFinancierosNIIF>
+	<ipp-mas-pat:GastosFinancierosNIIF contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-28666000</ipp-mas-pat:GastosFinancierosNIIF>
+	<ipp-mas-pat:DiferenciasCambioNeto contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">1295000</ipp-mas-pat:DiferenciasCambioNeto>
+	<ipp-mas-pat:ResultadoVariacionesValorInstrumentosFinancierosValorRazonableNeto contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">597000</ipp-mas-pat:ResultadoVariacionesValorInstrumentosFinancierosValorRazonableNeto>
+	<ipp-mas-pat:ParticipacionResultadoEjercicioAsociadasNegociosConjuntosContabilicenSegunMetodoParticipacion contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-74000</ipp-mas-pat:ParticipacionResultadoEjercicioAsociadasNegociosConjuntosContabilicenSegunMetodoParticipacion>
+	<ipp-mas-pat:BeneficioPerdidaAntesImpuestosActividadesContinuadas contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">52711000</ipp-mas-pat:BeneficioPerdidaAntesImpuestosActividadesContinuadas>
+	<ipp-mas-pat:GastoImpuestoSobreGanancias contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-9316000</ipp-mas-pat:GastoImpuestoSobreGanancias>
+	<ipp-mas-pat:BeneficioPerdidaEjercicioActividadesContinuadas contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">43395000</ipp-mas-pat:BeneficioPerdidaEjercicioActividadesContinuadas>
+	<ipp-mas-pat:BeneficioPerdidaEjercicio contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">43395000</ipp-mas-pat:BeneficioPerdidaEjercicio>
+	<ipp-mas-pat:InteresesMinoritariosResultado contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">-1180000</ipp-mas-pat:InteresesMinoritariosResultado>
+	<ipp-mas-pat:BeneficioPerdidaAtribuibleTenedoresInstrumentosPatrimonioNetoDominante contextRef="S22006_A-20014452_dpc" decimals="-3" unitRef="euro">42215000</ipp-mas-pat:BeneficioPerdidaAtribuibleTenedoresInstrumentosPatrimonioNetoDominante>
+	<ipp-mas-pat:GastosEstablecimiento contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">2167000</ipp-mas-pat:GastosEstablecimiento>
+	<ipp-mas-pat:InmovilizacionesMateriales contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">371670000</ipp-mas-pat:InmovilizacionesMateriales>
+	<ipp-mas-pat:InmovilizadoMaterialNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">415902000</ipp-mas-pat:InmovilizadoMaterialNIIF>
+	<ipp-mas-pat:FondoComercio contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">32207000</ipp-mas-pat:FondoComercio>
+	<ipp-mas-pat:FondoComercioNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">35292000</ipp-mas-pat:FondoComercioNIIF>
+	<ipp-mas-pat:OtrosActivosIntangibles contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">24808000</ipp-mas-pat:OtrosActivosIntangibles>
+	<ipp-mas-pat:OtrosActivosIntangiblesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">8710000</ipp-mas-pat:OtrosActivosIntangiblesNIIF>
+	<ipp-mas-pat:ActivosFinancierosNoCorrientes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">3186000</ipp-mas-pat:ActivosFinancierosNoCorrientes>
+	<ipp-mas-pat:ActivosFinancierosNoCorrientesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">3186000</ipp-mas-pat:ActivosFinancierosNoCorrientesNIIF>
+	<ipp-mas-pat:OtrosActivosNoCorrientesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">36331000</ipp-mas-pat:OtrosActivosNoCorrientesNIIF>
+	<ipp-mas-pat:OtrosActivosNoCorrientes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">36330000</ipp-mas-pat:OtrosActivosNoCorrientes>
+	<ipp-mas-pat:ActivoLargoPlazoNoCorriente contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">470368000</ipp-mas-pat:ActivoLargoPlazoNoCorriente>
+	<ipp-mas-pat:ActivoLargoPlazoNoCorrienteNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">499421000</ipp-mas-pat:ActivoLargoPlazoNoCorrienteNIIF>
+	<ipp-mas-pat:GastosDistribuirVariosEjercicios contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">925000</ipp-mas-pat:GastosDistribuirVariosEjercicios>
+	<ipp-mas-pat:Existencias contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">100943000</ipp-mas-pat:Existencias>
+	<ipp-mas-pat:ExistenciasNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">100894000</ipp-mas-pat:ExistenciasNIIF>
+	<ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrar contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">117523000</ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrar>
+	<ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrarNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">116863000</ipp-mas-pat:DeudoresComercialesOtrasCuentasCobrarNIIF>
+	<ipp-mas-pat:OtrosActivosFinancierosCorrientes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">47959000</ipp-mas-pat:OtrosActivosFinancierosCorrientes>
+	<ipp-mas-pat:OtrosActivosFinancierosCorrientesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">21931000</ipp-mas-pat:OtrosActivosFinancierosCorrientesNIIF>
+	<ipp-gen-con:AccionesSociedadDominanteCortoPlazo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">728000</ipp-gen-con:AccionesSociedadDominanteCortoPlazo>
+	<ipp-mas-pat:OtrosActivosCorrientesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">13950000</ipp-mas-pat:OtrosActivosCorrientesNIIF>
+	<ipp-mas-pat:OtrosActivosCorrientes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">13902000</ipp-mas-pat:OtrosActivosCorrientes>
+	<ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">10457000</ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentes>
+	<ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">38313000</ipp-mas-pat:EfectivoOtrosMediosLiquidosEquivalentesNIIF>
+	<ipp-mas-pat:SubtotalActivo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">291512000</ipp-mas-pat:SubtotalActivo>
+	<ipp-mas-pat:SubtotalActivoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">291951000</ipp-mas-pat:SubtotalActivoNIIF>
+	<ipp-mas-pat:ActivoCirculanteCorriente contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">291512000</ipp-mas-pat:ActivoCirculanteCorriente>
+	<ipp-mas-pat:ActivoCirculanteCorrienteNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">291951000</ipp-mas-pat:ActivoCirculanteCorrienteNIIF>
+	<ipp-mas-pat:TotalActivo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">762805000</ipp-mas-pat:TotalActivo>
+	<ipp-mas-pat:TotalActivoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">791372000</ipp-mas-pat:TotalActivoNIIF>
+	<ipp-mas-pat:CapitalSuscrito contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">23028000</ipp-mas-pat:CapitalSuscrito>
+	<ipp-mas-pat:CapitalNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">23028000</ipp-mas-pat:CapitalNIIF>
+	<ipp-mas-pat:Reservas contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">125495000</ipp-mas-pat:Reservas>
+	<ipp-mas-pat:ReservasNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">152952000</ipp-mas-pat:ReservasNIIF>
+	<ipp-mas-pat:DeLasQueAjusteContraReservasTransicionNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">9050000</ipp-mas-pat:DeLasQueAjusteContraReservasTransicionNIIF>
+	<ipp-mas-pat:MenosValoresPropiosNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">-274000</ipp-mas-pat:MenosValoresPropiosNIIF>
+	<ipp-mas-pat:ResultadoEjercicioNacional contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">18133000</ipp-mas-pat:ResultadoEjercicioNacional>
+	<ipp-mas-pat:MenosDividendosCuenta contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">-2276000</ipp-mas-pat:MenosDividendosCuenta>
+	<ipp-mas-pat:MenosDividendosCuentaNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">-2276000</ipp-mas-pat:MenosDividendosCuentaNIIF>
+	<ipp-mas-pat:PatrimonioNetoNormativaNacionalPatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominante contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">164380000</ipp-mas-pat:PatrimonioNetoNormativaNacionalPatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominante>
+	<ipp-mas-pat:PatrimonioNetoNormativaNacionalPatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominanteNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">173430000</ipp-mas-pat:PatrimonioNetoNormativaNacionalPatrimonioAtribuidoTenedoresInstrumentosPatrimonioNetoDominanteNIIF>
+	<ipp-mas-pat:InteresesMinoritarios contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">620000</ipp-mas-pat:InteresesMinoritarios>
+	<ipp-mas-pat:InteresesMinoritariosNIIF contextRef="S22007_A-20014452_dcccc" decimals="-3" unitRef="euro">686000</ipp-mas-pat:InteresesMinoritariosNIIF>
+	<ipp-mas-pat:TotalPatrimonioNetoSegunNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">174116000</ipp-mas-pat:TotalPatrimonioNetoSegunNIIF>
+	<ipp-mas-pat:DiferenciaNegativaConsolidacion contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">4713000</ipp-mas-pat:DiferenciaNegativaConsolidacion>
+	<ipp-mas-pat:IngresosDistribuirVariosEjercicios contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">12778000</ipp-mas-pat:IngresosDistribuirVariosEjercicios>
+	<ipp-mas-pat:IngresosDistribuirVariosEjerciciosNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">26566000</ipp-mas-pat:IngresosDistribuirVariosEjerciciosNIIF>
+	<ipp-mas-pat:DeudasEntidadesCreditoLargoPlazo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">214014000</ipp-mas-pat:DeudasEntidadesCreditoLargoPlazo>
+	<ipp-mas-pat:DeudasEntidadesCreditoLargoPlazoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">121314000</ipp-mas-pat:DeudasEntidadesCreditoLargoPlazoNIIF>
+	<ipp-mas-pat:ProvisionesLargoPlazo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">20322000</ipp-mas-pat:ProvisionesLargoPlazo>
+	<ipp-mas-pat:ProvisionesLargoPlazoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">20076000</ipp-mas-pat:ProvisionesLargoPlazoNIIF>
+	<ipp-mas-pat:OtrosPasivosNoCorrientes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">54690000</ipp-mas-pat:OtrosPasivosNoCorrientes>
+	<ipp-mas-pat:OtrosPasivosNoCorrientesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">65754000</ipp-mas-pat:OtrosPasivosNoCorrientesNIIF>
+	<ipp-mas-pat:PasivoLargoPlazoNoCorriente contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">289026000</ipp-mas-pat:PasivoLargoPlazoNoCorriente>
+	<ipp-mas-pat:PasivoLargoPlazoNoCorrienteNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">207144000</ipp-mas-pat:PasivoLargoPlazoNoCorrienteNIIF>
+	<ipp-mas-pat:DeudasEntidadesCreditoCortoPlazo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">82873000</ipp-mas-pat:DeudasEntidadesCreditoCortoPlazo>
+	<ipp-mas-pat:DeudasEntidadesCreditoCortoPlazoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">175573000</ipp-mas-pat:DeudasEntidadesCreditoCortoPlazoNIIF>
+	<ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagar contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">151456000</ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagar>
+	<ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagarNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">151127000</ipp-mas-pat:AcreedoresComercialesOtrasCuentasPagarNIIF>
+	<ipp-mas-pat:OtrosPasivosCorrientes contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">56959000</ipp-mas-pat:OtrosPasivosCorrientes>
+	<ipp-mas-pat:OtrosPasivosCorrientesNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">56846000</ipp-mas-pat:OtrosPasivosCorrientesNIIF>
+	<ipp-mas-pat:SubtotalPasivo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">291288000</ipp-mas-pat:SubtotalPasivo>
+	<ipp-mas-pat:SubtotalPasivoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">383546000</ipp-mas-pat:SubtotalPasivoNIIF>
+	<ipp-mas-pat:PasivoCortoPlazoCorriente contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">291288000</ipp-mas-pat:PasivoCortoPlazoCorriente>
+	<ipp-mas-pat:PasivoCortoPlazoCorrienteNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">383546000</ipp-mas-pat:PasivoCortoPlazoCorrienteNIIF>
+	<ipp-mas-pat:TotalPasivo contextRef="S22006_A-20014452_ipccc" decimals="-3" unitRef="euro">762805000</ipp-mas-pat:TotalPasivo>
+	<ipp-mas-pat:TotalPasivoNIIF contextRef="S22007_A-20014452_icccc" decimals="-3" unitRef="euro">791372000</ipp-mas-pat:TotalPasivoNIIF>
+	<ipp-com:DistribucionActividadINCNDescripcionActividad1 contextRef="S22007_A-20014452_ici">COMPONENTES DE AUTOMOCION</ipp-com:DistribucionActividadINCNDescripcionActividad1>
+	<ipp-com:DistribucionActividadINCNValorCifra1 contextRef="S22007_A-20014452_ici" decimals="-3" unitRef="euro">0</ipp-com:DistribucionActividadINCNValorCifra1>
+	<ipp-com:DistribucionActividadINCNDescripcionActividad1 contextRef="S22006_A-20014452_ipi">COMPONENTES DE AUTOMOCION</ipp-com:DistribucionActividadINCNDescripcionActividad1>
+	<ipp-com:DistribucionActividadINCNValorCifra1 contextRef="S22006_A-20014452_ipi" decimals="-3" unitRef="euro">0</ipp-com:DistribucionActividadINCNValorCifra1>
+	<ipp-com:DistribucionActividadImporteNetoCifraNegocioMercadoInterior contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">364853000</ipp-com:DistribucionActividadImporteNetoCifraNegocioMercadoInterior>
+	<ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionUE contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">448498000</ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionUE>
+	<ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionRestoPaises contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">464220000</ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionRestoPaises>
+	<ipp-com:DistribucionActividadINCNDescripcionActividad1 contextRef="S22007_A-20014452_icc">COMPONENTES DE AUTOMOCION</ipp-com:DistribucionActividadINCNDescripcionActividad1>
+	<ipp-com:DistribucionActividadINCNValorCifra1 contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">1056982000</ipp-com:DistribucionActividadINCNValorCifra1>
+	<ipp-com:DistribucionActividadINCNDescripcionActividad2 contextRef="S22007_A-20014452_icc">BIOCOMBUSTIBLES</ipp-com:DistribucionActividadINCNDescripcionActividad2>
+	<ipp-com:DistribucionActividadINCNValorCifra2 contextRef="S22007_A-20014452_icc" decimals="-3" unitRef="euro">220589000</ipp-com:DistribucionActividadINCNValorCifra2>
+	<ipp-com:DistribucionActividadImporteNetoCifraNegocioMercadoInterior contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">287563000</ipp-com:DistribucionActividadImporteNetoCifraNegocioMercadoInterior>
+	<ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionUE contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">431345000</ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionUE>
+	<ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionRestoPaises contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">239636000</ipp-com:DistribucionActividadImporteNetoCifraNegocioExportacionRestoPaises>
+	<ipp-com:DistribucionActividadINCNDescripcionActividad1 contextRef="S22006_A-20014452_ipc">COMPONENTES DE AUTOMOCION</ipp-com:DistribucionActividadINCNDescripcionActividad1>
+	<ipp-com:DistribucionActividadINCNValorCifra1 contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">892369000</ipp-com:DistribucionActividadINCNValorCifra1>
+	<ipp-com:DistribucionActividadINCNDescripcionActividad2 contextRef="S22006_A-20014452_ipc">BIOCOMBUSTIBLES</ipp-com:DistribucionActividadINCNDescripcionActividad2>
+	<ipp-com:DistribucionActividadINCNValorCifra2 contextRef="S22006_A-20014452_ipc" decimals="-3" unitRef="euro">66175000</ipp-com:DistribucionActividadINCNValorCifra2>
+	<ipp-com:TotalPersonasEmpleadas contextRef="S22007_A-20014452_dci" unitRef="pure" decimals="0">65</ipp-com:TotalPersonasEmpleadas>
+	<ipp-com:TotalPersonasEmpleadas contextRef="S22006_A-20014452_dpi" unitRef="pure" decimals="0">61</ipp-com:TotalPersonasEmpleadas>
+	<ipp-com:TotalPersonasEmpleadas contextRef="S22007_A-20014452_dcc" unitRef="pure" decimals="0">11711</ipp-com:TotalPersonasEmpleadas>
+	<ipp-com:TotalPersonasEmpleadas contextRef="S22006_A-20014452_dpc" unitRef="pure" decimals="0">8762</ipp-com:TotalPersonasEmpleadas>
+</xbrli_2:xbrl>

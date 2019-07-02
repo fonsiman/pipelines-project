@@ -1,3 +1,4 @@
+# Leemos la API. Necesita autorización mediante una key que guardamos en el archivo .env
 from difflib import SequenceMatcher
 import requests
 import pandas as pd
@@ -13,6 +14,8 @@ key = os.environ["ALPHAVANTAGE_KEY"]
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
+# La API dispone de una llamada que es un buscador. Sin embargo, nunca devuelve las acciones españolas. Por ello, creamos la siguiente función,
+# para paserle a la API el ticker exacto que necesitamos.
 def findticker(query):
     dicticker = {
         "ACCIONA" : "ANA.MC",
@@ -57,8 +60,9 @@ def findticker(query):
 
     return list_similar[0][1]
 
-
+# Únicamente necesitamos fecha y precio. Consultamos la API y la almacenamos en un df
 def read_api(query):
+    print ("Leyendo API...")
     res = requests.get('https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={}&outputsize=full&apikey={}'.format(findticker(query),key))
     data_api = res.json()
 
